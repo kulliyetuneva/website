@@ -3,6 +3,7 @@ backend:
   repo: kulliyetuneva/website
   branch: main
   base_url: https://lau5qluook.execute-api.eu-west-1.amazonaws.com/prod
+site_id: kulliyetuneva.com
 media_folder: "assets/images"
 locale: "tr"
 collections:
