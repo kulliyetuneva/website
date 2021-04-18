@@ -1,8 +1,8 @@
 # Site
 name: 'Kulliyetu Neva'
 description: ''
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: '/assets/images/logo.png'
+favicon: '/assets/images/favicon.ico'
 baseurl: ''
 disqus: ''
 email: ''
