@@ -2,8 +2,8 @@ backend:
   name: github
   repo: kulliyetuneva/website
   branch: main
-  base_url: https://lau5qluook.execute-api.eu-west-1.amazonaws.com/prod
-site_id: kulliyetuneva.com
+  base_url: https://lau5qluook.execute-api.eu-west-1.amazonaws.com
+  auth_endpoint: /prod/auth
 media_folder: "assets/images"
 locale: "tr"
 collections:
