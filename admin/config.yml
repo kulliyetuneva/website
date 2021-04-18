@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://lau5qluook.execute-api.eu-west-1.amazonaws.com
   auth_endpoint: /prod/auth
+local_backend: true
 media_folder: "assets/images"
 locale: "tr"
 collections:
@@ -32,3 +33,19 @@ collections:
       - {label: "Link", name: "permalink", widget: "string", pattern: ['^\/[a-z0-9]+(?:-[a-z0-9]+)*$', "/ ile başlayıp boşluk içermeyen ifade olmalı. Örnek: /sayfa-deneme"]}
       - {label: "Yorumlar Aktif", name: "comments", widget: "boolean", required: false}
       - {label: "İçerik", name: "body", widget: "markdown"}
+
+  - name: "config"
+    label: "Ayarlar"
+    editor:
+      preview: false
+    files:
+      - label: "Menu"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Menu Öğeleri"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: İsim, name: name, widget: string}
+              - {label: Link, name: link, widget: string}

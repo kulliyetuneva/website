@@ -1,0 +1,12 @@
+items:
+  - name: Anasayfa
+    link: /
+  - name: Yazarlar
+    link: /authors-list
+  - name: İletişim
+    link: /contact
+  - name: Hakkımızda
+    link: /about
+Öğeler:
+  - name: lj
+    link: jllj
