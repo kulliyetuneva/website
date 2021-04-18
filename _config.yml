@@ -3,7 +3,7 @@ name: 'Kulliyetu Neva'
 description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: 'https://kulliyetuneva.com'
 disqus: ''
 email: ''
 
@@ -14,7 +14,7 @@ authors:
     kulliyetuneva:
       name: Kulliyetu Neva
       site: kulliyetuneva.com
-      twitter: twitter.com/kulliyetuneva
+      twitter: https://twitter.com/kulliyetuneva
 
 # Defaults
 defaults:
