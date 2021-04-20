@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
-author: sal
-categories: [ Jekyll ]
+title: Never stopped worrying or loving the bomb
+date: 2021-04-20T19:10:21.788Z
+author: kulliyetuneva
+categories:
+  - Jekyll
+tags:
+  - featured
 image: /assets/images/14.jpg
-tags: featured
 ---
 I’ve been through fire and water, I tell you! From my earliest pebblehood the wildest things you could imagine have been happening to this world of ours, and I have been right in the midst of them.
 

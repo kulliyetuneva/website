@@ -2,7 +2,7 @@
 layout: post
 title: About Bundler
 date: 2021-04-20T16:58:33.447Z
-author: sal
+author: kulliyetuneva
 categories:
   - Jekyll
 image: /assets/images/2.jpg
