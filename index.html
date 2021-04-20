@@ -98,7 +98,7 @@ description: ""
                     <p class="mb-3 lead">
                         {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                     </p>
-                    <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
+                    <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Okumaya devam et</a>
                 </div>
                 <div class="col-md-6 d-none d-md-block pr-0"
                     style="background-size:cover;background-image:url({{ post.image }});">
@@ -150,7 +150,7 @@ description: ""
 
                     {% if paginator.next_page %}
                     <li class="page-item"><a class="page-link"
-                            href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next
+                            href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">İleri
                             &raquo;</a></li>
                     {% else %}
                     <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
