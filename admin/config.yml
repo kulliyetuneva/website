@@ -19,7 +19,7 @@ collections:
       - {label: "Yayın Tarihi", name: "date", widget: "datetime"}
       - {label: "Yazar", name: "author", widget: "string", default: "kulliyetuneva"}
       - {label: "Kategoriler", name: "categories", widget: "list"}
-      - {label: "Etiketler", name: "tags", widget: "list", field:{ label: "Tags", name: "tags", widget: "string", required: false }} 
+      - {label: "Etiketler", name: "tags", widget: "list", field: { label: "Tags", name: "tags", widget: "string"}}
       - {label: "Resim", name: "image", widget: "image"}
       - {label: "İçerik", name: "body", widget: "markdown", required:false}
   - name: "page"
