@@ -23,4 +23,6 @@ image: /assets/images/kulliyetu-nevâ-logo.png
 
 Rabbimizden dileğimiz ana gayemizden sapmadan hâlisane bir şekilde bu ilim yolculuğuna devam edebilmek.
 
+📍 Kulliyetu Nevâ'mızın (كن) adına uygun olabilecek bir logoyu da hayalimizde canlandırdığımız şekilde tasarlayan ve tüm dönem afişlerimizin de aynı zamanda tasarımcısı olan, hep özverili, hizmet ehli, cemiyette de çok emeği olan Filistinli kardeşimiz [@mdfaoor](https://www.instagram.com/mdfaoor/)'a da huzurunuzda teşekkür etmeyi bir borç biliriz. 🌿
+
 <!--EndFragment-->
