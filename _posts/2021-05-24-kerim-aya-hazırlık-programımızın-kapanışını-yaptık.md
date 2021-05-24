@@ -25,8 +25,6 @@ Bu programa başladığımız 12 Şubat'tan itibaren paylaştığımız broşür
 
 Yeni hayırlarda buluşmak duasıyla.🌿
 
-
-
-T.me/kulliyetuneva
+<https://t.me/kulliyetuneva>
 
 <!--EndFragment-->
