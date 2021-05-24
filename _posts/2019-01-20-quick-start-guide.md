@@ -16,7 +16,7 @@ image: /assets/images/kulliyetu-nevâ-logo.png
 \
 2010 yılında Şam-ı Şerif'ten döndüğümüz zaman açacağımız dil ve İslâmî ilimler kursuna gayemizi ifade edecek bir isim aramaya koyulmuştuk ekip olarak. Sonra bu tamlamada karar kıldı gönlümüz.\
 \
-🌾 "Kulliye كلية" ; öğrencilerin farklı uzmanlıklarda kendilerini ilerletmek maksadıyla devam ettikleri ilmî müessese/kuruluş anlamındadır Arapça’da, güncel olarak da şu anda "fakülte" anlamında kullanılmaktadır.\
+🌾 "Kulliyetu كلية" ; öğrencilerin farklı uzmanlıklarda kendilerini ilerletmek maksadıyla devam ettikleri ilmî müessese/kuruluş anlamındadır Arapça’da, güncel olarak da şu anda "fakülte" anlamında kullanılmaktadır.\
 \
 🌾 "Nevâ نوى" ise, bize En'am Sûresi 95.ayetten ilhamladır. Nevâ, isim olarak "çekirdekler" demektir. Fiil olarak manalarından biri de "niyet etmek".\
 \
@@ -25,19 +25,3 @@ image: /assets/images/kulliyetu-nevâ-logo.png
 Rabbimizden dileğimiz ana gayemizden sapmadan hâlisane bir şekilde bu ilim yolculuğuna devam edebilmek.
 
 <!--EndFragment-->
-
-```ruby
-# Install Jekyll and Bundler gems through RubyGems
-gem install jekyll bundler
-
-# Create a new Jekyll site at ./myblog
-jekyll new myblog
-
-# Change into your new directory
-cd myblog
-
-# Build the site on the preview server
-bundle exec jekyll serve
-
-# Now browse to http://localhost:4000
-```
