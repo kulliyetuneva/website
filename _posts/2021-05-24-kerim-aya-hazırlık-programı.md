@@ -7,7 +7,7 @@ categories:
   - Faaliyetlerimiz
 tags:
   - "#nevaramazanahazırlık"
-image: /assets/images/ön-sayfa.jpg
+image: /assets/images/sosyal-medya-çalışması.jpg
 ---
 <!--StartFragment-->
 
