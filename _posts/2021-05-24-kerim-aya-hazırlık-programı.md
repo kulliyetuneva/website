@@ -21,9 +21,7 @@ Program herkese açık, aileler, gençler herkes katılabilir. Maksadımız kad�
 
 Dua eder, dua bekleriz bu yeni girişim için. Rabbimiz hayra vesile eylesin.
 
-
-
-🌻Kanala katılmak için tıklayın: t.me/kulliyetuneva[](t.me/kulliyetuneva)
+🌻Kanala katılmak için tıklayın: <https://t.me/kulliyetuneva>[](t.me/kulliyetuneva)
 
 ![](/assets/images/arka-sayfa.jpg)
 
