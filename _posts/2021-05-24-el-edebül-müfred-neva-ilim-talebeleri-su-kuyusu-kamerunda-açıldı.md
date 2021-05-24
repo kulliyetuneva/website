@@ -3,6 +3,8 @@ layout: post
 title: "\"El-Edebü'l Müfred Neva İlim Talebeleri\" Su Kuyusu Kamerun'da Açıldı"
 date: 2019-04-03T20:56:49.448Z
 author: kulliyetuneva
+categories:
+  - Faaliyetlerimiz
 tags:
   - "#Edebülmüfredsukuyusu #Birkuyununsesi #Nevailimtalebeleri #Dersbereketi
     #Yusuflarbukuyudaniçsin #Elhamdulillah"
