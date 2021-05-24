@@ -1,15 +1,30 @@
 ---
 layout: post
-title: Quick Start Guide
-date: 2021-04-20T19:12:14.899Z
+title: '"Kulliyetu Neva" Ne Demek?'
+date: 2020-02-09T19:12:14.899Z
 author: kulliyetuneva
 categories:
-  - Jekyll
-  - tutorial
-image: /assets/images/12.jpg
+  - Hakkımızda
+tags:
+  - "#kulliyetuneva"
+image: /assets/images/kulliyetu-nevâ-logo.png
 ---
+<!--StartFragment-->
 
-If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
+"Kulliyetu Nevâ" ne demek?
+
+\
+2010 yılında Şam-ı Şerif'ten döndüğümüz zaman açacağımız dil ve İslâmî ilimler kursuna gayemizi ifade edecek bir isim aramaya koyulmuştuk ekip olarak. Sonra bu tamlamada karar kıldı gönlümüz.\
+\
+🌾 "Kulliye كلية" ; öğrencilerin farklı uzmanlıklarda kendilerini ilerletmek maksadıyla devam ettikleri ilmî müessese/kuruluş anlamındadır Arapça’da, güncel olarak da şu anda "fakülte" anlamında kullanılmaktadır.\
+\
+🌾 "Nevâ نوى" ise, bize En'am Sûresi 95.ayetten ilhamladır. Nevâ, isim olarak "çekirdekler" demektir. Fiil olarak manalarından biri de "niyet etmek".\
+\
+İşte biz bu yola kardeşlerimizin gönül topraklarına her birinin mizacına uygun tohumlar/"çekirdek"ler atalım da münasip zaman ve zeminde onları yarıp/yeşertecek olan Allah'tır düşüncesi ve "niyet"i ile girdik. Faaliyetlerimizin örgün eğitim kurumlarında ilim alma imkanı olan ya da olmayan kız kardeşlerimiz için bir eksiği kapatmasını arzu ettik.\
+\
+Rabbimizden dileğimiz ana gayemizden sapmadan hâlisane bir şekilde bu ilim yolculuğuna devam edebilmek.
+
+<!--EndFragment-->
 
 ```ruby
 # Install Jekyll and Bundler gems through RubyGems
