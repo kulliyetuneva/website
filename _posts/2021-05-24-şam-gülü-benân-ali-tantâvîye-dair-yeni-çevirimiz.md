@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ŞAM GÜLÜ BENÂN ALİ TANTÂVÎ'YE DAİR YENİ ÇEVİRİMİZ
+title: Şam Gülü Benân Ali Tantâvî'ye Dair Yeni Çevirimiz
 date: 2021-03-31T21:54:07.341Z
 author: kulliyetuneva
 categories:
