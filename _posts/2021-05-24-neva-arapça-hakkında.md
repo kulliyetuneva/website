@@ -11,11 +11,13 @@ image: /assets/images/kufi1.jpg
 ---
 <!--StartFragment-->
 
+> 🌿 *Nevâ Arapça dersleri, Suriye'de eğitim görmüş, 10 yıllık öğretim deneyimi olan, bu vesileyle Kur'an'a hizmet etmeyi kendilerine gaye edinmiş beş kişilik bir bayan grubu tarafından Kayseri'de verilmektedir.*🌿
+
+
+
 ***NEVA ARAPÇA HAKKINDA***
 
 **GENEL BİLGİ:**
-
-
 
 🔸Kursumuz, her biri 12-16 hafta süren 8 kurdan (6 temel+2 ihtisas) oluşuyor.
 
@@ -31,8 +33,6 @@ image: /assets/images/kufi1.jpg
 
 **DUAMIZ:** Arapça'yı ana dili gibi seven, konuşan, anlayan, bu dilin kıymetini bilerek ciddi bir şekilde emek veren, kursu bir etkinlik yeri olarak değil, ilim ve amel yuvası olarak gören öğrenciler yetiştirmek.
 
-> 🌿 *Nevâ Arapça dersleri, Suriye'de eğitim görmüş, 10 yıllık öğretim deneyimi olan, bu vesileyle Kur'an'a hizmet etmeyi kendilerine gaye edinmiş beş kişilik bir bayan grubu tarafından Kayseri'de verilmektedir.*🌿
->
 > ![](/assets/images/kufi2.jpg)
 
 <!--EndFragment-->
