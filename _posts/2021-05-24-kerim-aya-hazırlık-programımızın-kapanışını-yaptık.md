@@ -19,8 +19,8 @@ Bu programla amacımız Ramazan'ı her sene erkenden karşılamaya hazırlanan s
 
 Bu dökümü, az amelin toplamda nasıl bir verime dönüştüğünü görmeniz için yaptık sadece, ihlası ile kabul etmesini dileriz Rabbimizden. Bu program sadece bir numune idi, az ve öz tutmaya çalışmıştık, bunu geliştirmek ve bu tarz bir çalışmayı hayat metodu haline getirmek ise artık bizim elimizde. Programa katılan/katılamayıp duasıyla destek olan tüm kardeşlerimize teşekkür ederiz.
 
-Birkaç teşekkür de programın mutfak kısmında bize yardımcı olan kardeşlerimiz için olacak. Rabbimizin buyurduğu gibi "İyiliğin karşılığı iyilikten başka bir şey midir?"\
-\
+Birkaç teşekkür de programın mutfak kısmında bize yardımcı olan kardeşlerimiz için olacak. Rabbimizin buyurduğu gibi "İyiliğin karşılığı iyilikten başka bir şey midir?"
+
 Bu programa başladığımız 12 Şubat'tan itibaren paylaştığımız broşürleri ve davet kartlarını gönüllü ve özverili bir şekilde istediğimiz gibi tasarlayan kıymetli öğrencimiz [@velfeyn](https://www.instagram.com/velfeyn/) ve eşine, yine her hafta kanalda yaptığımız siyer testlerini büyük bir emekle hazırlayan Neva'mızın nâdide öğrenci ekibine, programı duyuran ve daha çok kişiye ulaşmasına vesile olan siz kardeşlerimize gönülden teşekkür ve dua ederiz.
 
 Yeni hayırlarda buluşmak duasıyla.🌿
