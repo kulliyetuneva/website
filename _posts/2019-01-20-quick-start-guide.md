@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Kulliyetu Neva" Ne Demek?'
-date: 2021-05-24T19:12:14.899Z
+date: 2020-02-09T19:12:14.899Z
 author: kulliyetuneva
 categories:
   - Hakkımızda
