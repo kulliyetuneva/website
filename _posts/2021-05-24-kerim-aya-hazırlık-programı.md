@@ -11,19 +11,19 @@ image: /assets/images/ön-sayfa.jpg
 ---
 <!--StartFragment-->
 
-Esselamu Aleykum Kıymetli Kardeşlerimiz,\
-\
-Ramazan'ı karşılama maksadıyla Recep ve Şaban aylarını kapsayan 2 aylık bu şekilde bir program düzenliyoruz. Telegram kanalımızdan günlük yürütülecek programa kayıt için kanala katılmanız yeterli. Katılan kayıt olmuş sayılacak. Kanalımız genel faaliyetlerimizi duyurmak için değil, bu programın işleyişi için açılmış olup, bir nevi okul hüviyetinde olacak.\
-\
-Program herkese açık, aileler, gençler herkes katılabilir. Maksadımız kadınıyla erkeğiyle toplumumuzda İslâmi bir alt yapı oluşmasına katkı sağlamak ve az da olsa devamlı yapılan amelin bereketine cemaat şuuru ile erişebilmek.\
-\
-İlk hedefimiz Ramazan öncesi siyer bilinci oluşturmak/bilgilerimizi tazelemek, sonrasında inşaAllah temel oluşturmaya yönelik çeşitli kademelerle devam etmek arzusundayız.\
-\
-Dua eder, dua bekleriz bu yeni girişim için. Rabbimiz hayra vesile eylesin.\
-\
-🌻Kanala katılmak için tıklayın: [t.me/kulliyetuneva](t.me/kulliyetuneva)
+Esselamu Aleykum Kıymetli Kardeşlerimiz,
+
+Ramazan'ı karşılama maksadıyla Recep ve Şaban aylarını kapsayan 2 aylık bu şekilde bir program düzenliyoruz. Telegram kanalımızdan günlük yürütülecek programa kayıt için kanala katılmanız yeterli. Katılan kayıt olmuş sayılacak. Kanalımız genel faaliyetlerimizi duyurmak için değil, bu programın işleyişi için açılmış olup, bir nevi okul hüviyetinde olacak.
+
+Program herkese açık, aileler, gençler herkes katılabilir. Maksadımız kadınıyla erkeğiyle toplumumuzda İslâmi bir alt yapı oluşmasına katkı sağlamak ve az da olsa devamlı yapılan amelin bereketine cemaat şuuru ile erişebilmek.
+
+İlk hedefimiz Ramazan öncesi siyer bilinci oluşturmak/bilgilerimizi tazelemek, sonrasında inşaAllah temel oluşturmaya yönelik çeşitli kademelerle devam etmek arzusundayız.
+
+Dua eder, dua bekleriz bu yeni girişim için. Rabbimiz hayra vesile eylesin.
 
 
+
+🌻Kanala katılmak için tıklayın: t.me/kulliyetuneva[](t.me/kulliyetuneva)
 
 ![](/assets/images/arka-sayfa.jpg)
 
