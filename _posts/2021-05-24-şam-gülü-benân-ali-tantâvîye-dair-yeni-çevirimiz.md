@@ -11,15 +11,13 @@ image: /assets/images/167504369_3681710185292035_1379218261069971321_n.jpg
 ---
 <!--StartFragment-->
 
-> ***ŞAM GÜLÜ BENÂN ALİ TANTÂVÎ'YE DAİR YENİ ÇEVİRİMİZ***\
-> \
-> Nevâ ekibi olarak ilim tahsil ettiğimiz ve ikinci vatanımız saydığımız Şam topraklarından, Esed rejimi tarafından çıkmaya mecbur bırakılan meşhur davetçi Ali Tantâvî'nin kızı ve Suriye Müslüman Kardeşler Teşkilâtı lideri İsâm Attâr'ın eşi Benân hanımın Mart 1981'de Almanya'daki evinde suikaste uğramasının yıldönümünde M. Vâil el-Hanbelî tarafından kaleme alınan "Otuz sekiz yapraklı bir Şam gülü bugün koparıldı" başlıklı yazısını sizler için çevirdik. 
+> ***ŞAM GÜLÜ BENÂN ALİ TANTÂVÎ'YE DAİR YENİ ÇEVİRİMİZ***
 
-
+Nevâ ekibi olarak ilim tahsil ettiğimiz ve ikinci vatanımız saydığımız Şam topraklarından, Esed rejimi tarafından çıkmaya mecbur bırakılan meşhur davetçi Ali Tantâvî'nin kızı ve Suriye Müslüman Kardeşler Teşkilâtı lideri İsâm Attâr'ın eşi Benân hanımın Mart 1981'de Almanya'daki evinde suikaste uğramasının yıldönümünde M. Vâil el-Hanbelî tarafından kaleme alınan "Otuz sekiz yapraklı bir Şam gülü bugün koparıldı" başlıklı yazısını sizler için çevirdik. 
 
 <!--StartFragment-->
 
-Otuz sekiz yapraklı bir Şam gülü bugün, (17 Mart 1981) saat 9.30’da koparıldı...
+**Otuz sekiz yapraklı bir Şam gülü bugün, (17 Mart 1981) saat 9.30’da koparıldı...**
 
 Kendisinden bahsettiğimiz gülümüz, ruh ikizi ile evlendiğinde dikkat çeken bir şekilde eşinden, dünya zevkleri ve süsünden bir şey talep etmemiş; sadece Şam’da kalmaya devam etmeyi ve kendisini oradan ayırmamasını istemişti... Lakin yüce bir hedef ve şerefli bir amaç için oradan çıkmak zorunda kaldılar.
 
