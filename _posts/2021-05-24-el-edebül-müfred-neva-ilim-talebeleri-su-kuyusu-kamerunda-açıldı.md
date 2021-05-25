@@ -6,8 +6,10 @@ author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
 tags:
-  - "#Edebülmüfredsukuyusu #Birkuyununsesi #Nevailimtalebeleri #Dersbereketi
-    #Yusuflarbukuyudaniçsin #Elhamdulillah"
+  - Edebülmüfredsukuyusu
+  - Birkuyununsesi
+  - "Nevailimtalebeleri #Dersbereketi"
+  - "#Yusuflarbukuyudaniçsin #Elhamdulillah"
 image: /assets/images/kuyu.jpg
 ---
 <!--StartFragment-->
