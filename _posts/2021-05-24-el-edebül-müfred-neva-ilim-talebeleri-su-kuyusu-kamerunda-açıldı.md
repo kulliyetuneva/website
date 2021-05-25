@@ -8,8 +8,10 @@ categories:
 tags:
   - Edebülmüfredsukuyusu
   - Birkuyununsesi
-  - "Nevailimtalebeleri #Dersbereketi"
-  - "#Yusuflarbukuyudaniçsin #Elhamdulillah"
+  - Nevailimtalebeleri
+  - Dersbereketi
+  - Yusuflarbukuyudaniçsin
+  - Elhamdulillah
 image: /assets/images/kuyu.jpg
 ---
 <!--StartFragment-->
