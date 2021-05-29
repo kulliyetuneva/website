@@ -1,5 +1,18 @@
 {% for item in site.data.navigation.items %}
+    {% if item.subitems and item.subitems.size > 0 %}
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          {{ item.name }}
+        </a>
+        <div class="dropdown-menu">
+        {% for subitem in item.subitems %}
+            <a class="dropdown-item" href="{{ site.baseurl }}{{ subitem.link }}">{{ subitem.name }}</a>
+        {% endfor %}
+        </div>
+      </li>
+    {% else %}
     <li class="nav-item">
         <a class="nav-link" href="{{ site.baseurl }}{{ item.link }}">{{ item.name }}</a>
     </li>
+    {% endif %}
 {% endfor %}

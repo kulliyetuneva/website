@@ -10,10 +10,11 @@ items:
   - name: Neva Hafızlık
     link: /contact
   - name: Neva Çeviri
-    link: /contact
     subitems:
-      - name: deneme
-        link: linki
+      - name: Alt menu 1
+        link: /
+      - name: Alt menu 2
+        link: /
 Öğeler:
   - name: lj
     link: jllj
