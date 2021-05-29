@@ -7,6 +7,8 @@ categories:
   - Hakkımızda
 tags:
   - "#kulliyetuneva"
+featured: true
+sticky: true
 image: /assets/images/kulliyetu-nevâ-logo.png
 ---
 <!--StartFragment-->

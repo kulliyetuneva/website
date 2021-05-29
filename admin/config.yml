@@ -20,6 +20,8 @@ collections:
       - {label: "Yazar", name: "author", widget: "string", default: "kulliyetuneva"}
       - {label: "Kategoriler", name: "categories", widget: "list"}
       - {label: "Etiketler", name: "tags", widget: "list"}
+      - {label: "Öne Çıkanlarda Göster", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Sabitle", name: "sticky", widget: "boolean", default: false, required: false}
       - {label: "Resim", name: "image", widget: "image"}
       - {label: "İçerik", name: "body", widget: "markdown", required:false}
   - name: "page"

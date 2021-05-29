@@ -7,6 +7,7 @@ categories:
   - Neva Çeviri
 tags:
   - "#nevaceviri"
+featured: true
 image: /assets/images/167504369_3681710185292035_1379218261069971321_n.jpg
 ---
 <!--StartFragment-->
