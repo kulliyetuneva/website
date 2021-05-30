@@ -8,14 +8,27 @@ layout: default
             {% if page.image %}
             <img class="card-img-top mb-5 shadow-lg" src="{{ page.image }}" alt="{{ page.title }}">
             {% endif %}
+
             <div class="page-content">
                 {{ content }}
-                <!-- Comments -->
-                {% if page.comments == true %}
-                {% include comments.html %}
-                {% endif %}
             </div>
+
+            <!-- <form action="https://formspree.io/{{site.email}}" method="POST">
+                <p class="mb-4">Bize aşağıdaki formu kullanarak mesaj gönderebilirsiniz.</p>
+                <div class="form-group row">
+                    <div class="col-md-6">
+                        <input class="form-control" type="text" name="name" placeholder="İsim*" required>
+                    </div>
+                    <div class="col-md-6">
+                        <input class="form-control" type="email" name="_replyto" placeholder="E-posta*" required>
+                    </div>
+                </div>
+                <textarea rows="8" class="form-control mb-3" name="message" placeholder="Mesajınız*" required></textarea>
+                <input class="btn btn-success" type="submit" value="Gönder">
+            </form> -->
+
         </div>
+
         <div class="col-md-4">
             <div class="sticky-top sticky-top-offset">
                 <h4 class="font-weight-bold spanborder"><span>Hakkımızda Diğer İçerikler</span></h4>
@@ -41,5 +54,7 @@ layout: default
                 </ol>
             </div>
         </div>
+
     </div>
+
 </div>
