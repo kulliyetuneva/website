@@ -23,7 +23,6 @@ collections:
           collection: "category", value_field: "title", search_fields: ["title"], display_fields: ["title"],
           multiple: true
         }
-      - {label: "Etiketler", name: "tags", widget: "list"}
       - {label: "Öne Çıkanlarda Göster", name: "featured", widget: "boolean", default: false, required: false}
       - {label: "Sabitle", name: "sticky", widget: "boolean", default: false, required: false}
       - {label: "Resim", name: "image", widget: "image"}
