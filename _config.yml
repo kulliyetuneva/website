@@ -17,6 +17,10 @@ authors:
       twitter: https://twitter.com/kulliyetuneva
       avatar: /assets/images/kulliyetuneva_profil.jpg
 
+collections:
+  category:
+    output: true
+
 # Defaults
 defaults:
   # all posts
@@ -31,6 +35,13 @@ defaults:
       path: "_pages"
     values:
       layout: page
+
+  # all categories
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: category
 
 # Syntax
 markdown: kramdown

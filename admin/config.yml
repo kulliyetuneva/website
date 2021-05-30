@@ -18,7 +18,11 @@ collections:
       - {label: "Başlık", name: "title", widget: "string"}
       - {label: "Yayın Tarihi", name: "date", widget: "datetime"}
       - {label: "Yazar", name: "author", widget: "string", default: "kulliyetuneva"}
-      - {label: "Kategoriler", name: "categories", widget: "list"}
+      - {
+          label: "Kategoriler", name: "categories", widget: "relation",
+          collection: "category", value_field: "title", search_fields: ["title"], display_fields: ["title"],
+          multiple: true
+        }
       - {label: "Etiketler", name: "tags", widget: "list"}
       - {label: "Öne Çıkanlarda Göster", name: "featured", widget: "boolean", default: false, required: false}
       - {label: "Sabitle", name: "sticky", widget: "boolean", default: false, required: false}
@@ -35,6 +39,13 @@ collections:
       - {label: "Link", name: "permalink", widget: "string", pattern: ['^\/[a-z0-9]+(?:-[a-z0-9]+)*$', "/ ile başlayıp boşluk içermeyen ifade olmalı. Örnek: /sayfa-deneme"]}
       - {label: "Yorumlar Aktif", name: "comments", widget: "boolean", required: false}
       - {label: "İçerik", name: "body", widget: "markdown"}
+  - name: "category"
+    label: "Kategori"
+    folder: "_category"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Başlık", name: "title", widget: "string"}
 
   - name: "config"
     label: "Ayarlar"

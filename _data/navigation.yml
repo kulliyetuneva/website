@@ -6,15 +6,13 @@ items:
   - name: Hakkımızda
     link: /about
   - name: Neva Arapça
-    link: /contact
+    link: /category/neva-arapça/
   - name: Neva Hafızlık
     link: /contact
   - name: Neva Çeviri
     subitems:
-      - name: Alt menu 1
-        link: /
-      - name: Alt menu 2
-        link: /
+      - name: Tüm Çeviriler
+        link: /category/neva-çeviri/
 Öğeler:
   - name: lj
     link: jllj

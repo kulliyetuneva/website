@@ -1,6 +1,7 @@
 ---
-title: "Hakkımızda"
-layout: page-sidebar
-permalink: "/about"
+layout: about
+title: Hakkımızda
+permalink: /about
 comments: true
 ---
+**Kulliyetu Neva Sitesinin Amaci**

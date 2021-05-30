@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container">
+    <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+    <div class="page-content">
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8">
+                    {% for post in site.categories[page.title] %}
+                    {% include main-loop-card.html %}
+                    {% endfor %}
+                </div>
+
+                <div class="col-md-4">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

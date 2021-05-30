@@ -12,7 +12,7 @@ layout: default
                         <span class="catlist">
                             {% for category in page.categories %}
                             <a class="sscroll text-danger"
-                                href="{{site.baseurl}}/categories#{{ category | downcase }}">{{ category | downcase
+                                href="{{site.baseurl}}/category/{{ category | slugify }}">{{ category | downcase
                                 }}</a><span class="sep">, </span>
                             {% endfor %}
                         </span>
