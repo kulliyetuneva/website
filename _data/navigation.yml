@@ -11,3 +11,13 @@ items:
     subitems:
       - name: Tüm Çeviriler
         link: /category/neva-çeviri/
+      - name: Hanım Şahsiyetler
+        link: /
+  - name: Davet & Tebliğ Kartları
+    subitems:
+      - name: Seçme Âyetler
+        link: /
+      - name: Nebi (as) dan İnciler
+        link: /
+      - name: Öncü Şahsiyetler
+        link: /
