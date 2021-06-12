@@ -7,12 +7,23 @@ items:
     link: /category/neva-arapça/
   - name: Neva Hafızlık
     link: /
+  - name: Neva İslâmî İlimler
+    link: /
+    subitems:
+      - name: el-İ'tisâm Dersi
+        link: /
+      - name: el-Edeb'ül-Müfred Dersi
+        link: /
+      - name: Müslümanların Tarihi
+        link: /
   - name: Neva Çeviri
     subitems:
       - name: Tüm Çeviriler
         link: /category/neva-çeviri/
       - name: Hanım Şahsiyetler
         link: /
+  - name: Neva Kitap Tahlili
+    link: /
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
@@ -32,7 +43,5 @@ items:
         link: /
       - name: Öncü Şahsiyetler
         link: /
-  - name: Neva Kitap Tahlili
-    link: /
   - name: Bir Soru
     link: /
