@@ -4,4 +4,4 @@ title: Hakkımızda
 permalink: /about
 comments: true
 ---
-**Kulliyetu Neva Sitesinin Amaci**
+**Kulliyetu Neva'ya Dair**
