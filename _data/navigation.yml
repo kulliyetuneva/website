@@ -13,16 +13,6 @@ items:
         link: /category/neva-çeviri/
       - name: Hanım Şahsiyetler
         link: /
-  - name: Davet & Tebliğ Kartları
-    subitems:
-      - name: Seçme Âyetler
-        link: /
-      - name: Nebi (as) dan İnciler
-        link: /
-      - name: Öncü Şahsiyetler
-        link: /
-  - name: Bir Soru
-    link: /
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
@@ -34,3 +24,13 @@ items:
         link: /
       - name: Aile ve Müslüman Topluma Dair
         link: /
+  - name: Davet & Tebliğ Kartları
+    subitems:
+      - name: Seçme Âyetler
+        link: /
+      - name: Nebi (as)'dan İnciler
+        link: /
+      - name: Öncü Şahsiyetler
+        link: /
+  - name: Bir Soru
+    link: /
