@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yahudilerin Kur'an'da Zikredilen Özellikleri
-date: 2021-06-12T20:24:46.744Z
+date: 2021-05-24T20:24:46.744Z
 author: kulliyetuneva
 categories:
   - Davet & Tebliğ Kartları
