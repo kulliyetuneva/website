@@ -4,7 +4,6 @@ title: Düşünmek ve Değişmek İçin Bir Soru
 date: 2021-06-05T20:05:54.549Z
 author: kulliyetuneva
 categories:
-  - "Dr.İyad Kunaybi "
   - Bir Soru
 featured: false
 sticky: false
