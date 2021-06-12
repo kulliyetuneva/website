@@ -1,3 +1,3 @@
 ---
-title: Davet & Tebliğ Kartları
+title: Tebliğ Kartları
 ---
