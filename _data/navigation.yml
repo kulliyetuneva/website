@@ -23,3 +23,14 @@ items:
         link: /
   - name: Bir Soru
     link: /
+  - name: Dr.İyad Kunaybi
+    link: /
+    subitems:
+      - name: İmanın Hakikatine Yolculuk
+        link: /
+      - name: Kadın ve Aile Serisi
+        link: /
+      - name: Hüsn-ü Zan Serisi
+        link: /
+      - name: Aile ve Müslüman Topluma Dair
+        link: /
