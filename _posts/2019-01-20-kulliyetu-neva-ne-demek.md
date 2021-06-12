@@ -5,10 +5,10 @@ date: 2020-02-09T19:12:14.899Z
 author: kulliyetuneva
 categories:
   - Hakkımızda
+featured: false
+sticky: false
 tags:
   - "#kulliyetuneva"
-featured: true
-sticky: true
 image: /assets/images/kulliyetu-nevâ-logo.png
 ---
 <!--StartFragment-->
