@@ -4,7 +4,7 @@ title: Beytu'l Makdis Okumalarına Başlıyoruz
 date: 2021-05-18T21:21:57.584Z
 author: kulliyetuneva
 categories:
-  - Faaliyetlerimiz
+  - Neva Kitap Tahlili
 featured: false
 sticky: false
 image: /assets/images/kudüs.jpg
