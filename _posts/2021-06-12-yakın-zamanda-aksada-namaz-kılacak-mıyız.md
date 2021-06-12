@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yakın Zamanda Aksa'da Namaz Kılacak mıyız?
-date: 2021-06-12T20:38:17.208Z
+date: 2021-05-22T20:38:17.208Z
 author: kulliyetuneva
 categories:
   - "Dr.İyad Kunaybi "
