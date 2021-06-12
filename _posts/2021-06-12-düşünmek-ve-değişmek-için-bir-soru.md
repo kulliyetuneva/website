@@ -5,6 +5,7 @@ date: 2021-06-05T20:05:54.549Z
 author: kulliyetuneva
 categories:
   - "Dr.İyad Kunaybi "
+  - Bir Soru
 featured: false
 sticky: false
 image: /assets/images/düşümek-i̇çin-1-soru-kudüs-sarı.jpg
