@@ -11,9 +11,9 @@ image: /assets/images/nevâ-arapça-yaz-dönemi-2021-i̇nstgram.jpg
 ---
 <!--StartFragment-->
 
-على بركة الله ![🌿](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png)
-
 Yaz Dönemi Kayıtlarımız Başladı!
+
+على بركة الله ![🌿](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png)
 
 İstifadesi ve bereketi bol bir yaz geçirmek duasıyla...
 
