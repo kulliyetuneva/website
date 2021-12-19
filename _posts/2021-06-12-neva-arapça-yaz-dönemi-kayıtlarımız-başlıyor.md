@@ -5,8 +5,8 @@ date: 2021-06-06T20:34:48.974Z
 author: kulliyetuneva
 categories:
   - Neva Arapça
-featured: true
-sticky: true
+featured: false
+sticky: false
 image: /assets/images/nevâ-arapça-yaz-dönemi-2021-i̇nstgram.jpg
 ---
 <!--StartFragment-->
