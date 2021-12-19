@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - "Dr.İyad Kunaybi "
 featured: true
-sticky: false
+sticky: true
 image: /assets/images/göz-aydınlık.jpg
 ---
 <!--StartFragment-->
