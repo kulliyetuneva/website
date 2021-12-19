@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neva 1.Kitap Tahlili
+title: Neva 1.Kitap Tahlili (Zamanın Kıymeti)
 date: 2020-02-16T20:09:07.378Z
 author: kulliyetuneva
 categories:
