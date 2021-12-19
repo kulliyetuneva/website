@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neva Arapça Yaz Dönemi Kayıtlarımız Başladı!
+title: Neva Arapça  2021 Yaz Dönemi Kayıtlarımız Başladı!
 date: 2021-06-06T20:34:48.974Z
 author: kulliyetuneva
 categories:
