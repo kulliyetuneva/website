@@ -61,8 +61,8 @@ Abdullah bin Mes'ûd (r.a) demiştir ki: *"Üzerine güneşin battığı, ömrü
 
 **Kulliyetu Neva**
 
-[\#kulliyetuneva](https://www.facebook.com/hashtag/kulliyetuneva?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R) [\#nevakitaptahlili](https://www.facebook.com/hashtag/nevakitaptahlili?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R) [\#zamanınkıymeti](https://www.facebook.com/hashtag/zaman%C4%B1nk%C4%B1ymeti?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R) 
 
-[\#takdimyayınları](https://www.facebook.com/hashtag/takdimyay%C4%B1nlar%C4%B1?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R) [\#abdülfettahebugudde](https://www.facebook.com/hashtag/abd%C3%BClfettahebugudde?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R) [\#enbiyayıldırım](https://www.facebook.com/hashtag/enbiyay%C4%B1ld%C4%B1r%C4%B1m?__eep__=6&__cft__[0]=AZWtIq2MJ_Mp75xPDGyFJSp-5vbbIMWFtdEVY1h57iCBidx52-nOynxMUUEkUEXkMWj23-BOLxpJ38XiSBGIGppQvN86zHxP5bnOidlFIcW4J5zpuU_cEe7CvmmAfSosVd4&__tn__=*NK-R)
+
+![](/assets/images/zaman2.jpg)
 
 <!--EndFragment-->
