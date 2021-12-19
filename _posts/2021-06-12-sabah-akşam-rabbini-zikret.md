@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Davet & Tebliğ Kartları
 featured: false
-sticky: true
+sticky: false
 image: /assets/images/ahzab-suresi-35.-ayet-bordo.jpg
 ---
 ![](/assets/images/araf-suresi-205.-ayet.jpg)
