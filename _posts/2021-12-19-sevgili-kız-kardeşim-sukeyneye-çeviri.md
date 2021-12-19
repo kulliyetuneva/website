@@ -219,17 +219,15 @@ Rabbimiz üzerimize sabır yağdır ve bizim Müslüman olarak canımızı al.
 
 Salat ve selam Nebimiz Muhammed’e ve ailesine olsun.
 
-\------
+*Bu yazı kendisine zor gelmesine rağmen Sukeyne’ye iyilik ve hayırlı bir yâd olması için kız kardeşi Hassâne tarafından yazılmıştır.*
 
-Bu yazı kendisine zor gelmesine rağmen Sukeyne’ye iyilik ve hayırlı bir yâd olması için kız kardeşi Hassâne tarafından yazılmıştır.
+**Hassâne binti Muhammed Nâsıruddin el-Elbâni**
 
 5 Rebîu’l-âhir 1441 / 2 Aralık 2019
 
-Hassâne binti Muhammed Nâsıruddin el-Elbâni
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\| Çeviri: [Kulliyetu Neva](https://www.facebook.com/kulliyetu.neva?__cft__[0]=AZXbU6b5JsPpjp5gCMk5DCCTPg6a_406CpzWekY0HYHkG1iUo0CGFr2982Jv-VvCu_1-6Sg3BQzrq__cFD07dV5li_ZP1_Y5qxfdA-tQ2joOgxHq8iDZUkU3jNVPwki_2fE&__tn__=-]K-R) Muallimelerinden Betül Altındiş-Feyza Altındiş
+**\| Çeviri:** [](https://www.facebook.com/kulliyetu.neva?__cft__[0]=AZXbU6b5JsPpjp5gCMk5DCCTPg6a_406CpzWekY0HYHkG1iUo0CGFr2982Jv-VvCu_1-6Sg3BQzrq__cFD07dV5li_ZP1_Y5qxfdA-tQ2joOgxHq8iDZUkU3jNVPwki_2fE&__tn__=-]K-R)Neva Muallimelerinden Betül Altındiş - Feyza Altındiş
 
 <!--EndFragment-->
 
