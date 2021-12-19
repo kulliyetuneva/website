@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Gündeme Dair
 featured: false
-sticky: false
+sticky: true
 image: /assets/images/erciyes-dagi-1.jpg
 ---
 <!--StartFragment-->
