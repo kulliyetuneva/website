@@ -11,13 +11,13 @@ image: /assets/images/itisam.jpg
 ---
 <!--StartFragment-->
 
-Neva Arapça’dan mezun olan ve temel İslami ilimler alt yapısına sahip öğrencilerimizle bu dönem Arapça olarak Endülüslü ilim adamı Şatıbı’nin el-İ’tisam eserini okumaya başladık.
-
-İslam’ın inanç-eylem/ iman-amel anlayışını ve bu anlayışla çelişen teorik ve pratik yaklaşımları akli ve nakli deliller çerçevesinde ele alan bu eser yoluyla; tarihteki ve günümüzdeki ilgili meseleleri değerlendirmede temel bir ölçüt ve doğru bir yöntem edinmeyi, iman ve amelin düzeltilmesiyle kulluğu yaratıcının istediği şekilde yerine getirebilmeyi amaçlıyor, umuyoruz.
-
-Hem dersin takipçilerine hem de genele yönelik bir faydaya vesile olması niyetiyle ders notlarını düzenli yayınlamaya çalışacağız.
-
-İlk özet talibemiz Rüveyda Ateş'ten...
+> *Neva Arapça’dan mezun olan ve temel İslami ilimler alt yapısına sahip öğrencilerimizle bu dönem Arapça olarak Endülüslü ilim adamı İmam Şatıbı’nin el-İ’tisam eserini okumaya başladık.*
+>
+> *İslam’ın inanç-eylem/ iman-amel anlayışını ve bu anlayışla çelişen teorik ve pratik yaklaşımları akli ve nakli deliller çerçevesinde ele alan bu eser yoluyla; tarihteki ve günümüzdeki ilgili meseleleri değerlendirmede temel bir ölçüt ve doğru bir yöntem edinmeyi, iman ve amelin düzeltilmesiyle kulluğu yaratıcının istediği şekilde yerine getirebilmeyi amaçlıyor, umuyoruz.*
+>
+> *Hem dersin takipçilerine hem de genele yönelik bir faydaya vesile olması niyetiyle ders notlarını düzenli yayınlamaya çalışacağız.*
+>
+> *İlk özet talibemiz Rüveyda Ateş'ten...*
 
 **ŞATIBİ’NİN DÖNEMİNDEKİ ENDÜLÜS’TE İLMİ, SİYASİ, SOSYAL HAYAT**
 
@@ -42,7 +42,6 @@ Yine Şatıbi’nin yaşadığı hicri sekizinci yüzyıl hem Doğu hem Bat
 **Eserleri:**
 
 1. El-Muvâfakat fî Usûli’ş-Şerî’a: Fıkıh usûlü ile ilgili bir eserdir.
-
 2. Unvânu’t Tarif bi Esrâri’t Teklif: Fıkıh usûlü ile yazdığı kitaba öncelikle bu ismi vermiş
 
 sonrasında ise ismini“el-Muvâfakât” şeklinde değiştirmiştir.
@@ -52,13 +51,9 @@ sonrasında ise ismini“el-Muvâfakât” şeklinde değiştirmiştir.
 bölümünün şerhidir.
 
 4. Şerhu’l-Elfiye: Dil bilimci İbn Malik’in nahivle ilgili olan “Elfiye “ isimli eserinin şerhidir.
-
 5. El-ifadât ve’l-İnşâdât: Edebiyat ile ilgili bir eserdir.
-
 6. Unvanu’l-İttifak fî İlm’i-İştikâk: Arap diliyle iligili bir çalışmadır.
-
 7. Makâsıdü’ş-Şafiye fi Şerhi Hulasati’l-Kafiye: Gramer(Kavaid) kitabıdır.
-
 8. Fetâvâ’l-İmam eş-Şatıbî: İslam hukukunun pratik yönüyle ilgili bazı meşelerini ihtiva eder.
 
 **9. El-İ’tisam:** Bid’atlere karşı Kitap ve Sünneti savunan, bid’atin mahiyetine ve tehlikelerine işaret eden ve halk arasında yayılan hurafe ve bid’atleri açıklayıp tedavi yollarını gösteren kıymetli bir eserdir. Kitabın yazılış sebebinin anlatıldığı mukaddimede dinin gerek asli, gerek feri hükümleri alanına giren çeşitli konularda İslam’ın ruhuna ters düşen yeni anlayış ve uygulamların ortaya çıktığından söz edilmekte ve imamlık -hatiplik gibi görevler üstlenen müellifin bu hususta karşılaştığı güçlüklere temas edilmektedir. Kitabın tashih ve tanıtımını üstlenen meşhur İslam düşünürü Muhammed Reşid Rıza, eserin mukaddimesinde şunları söylemektedir: “Şayet bu kitap, Müslümanlar arasında ilim ve din alanlarının zaafa uğradığı bir dönemde telif edilmiş olmasaydı, Sünnet’in ihyası, ahlakî ve ictimaî alanların ıslahında yeni bir hamlenin başlangıcı olabilir, müellifi de bu eseri ve bunun bir diğer benzeri olan –ancak daha önce eşine rastlanmayan- el-Muvafakat adlı eseri sayesinde İslam’da en büyük müceddidler arasında sayılabilirdi. Bu eserlerin müellifinin çalıştığı alanlardaki konumu, ictimaî ilimlerde bilge kişiliğiyle tanınan Abdurrahman b. Haldun’un kendi alanındaki konumu gibidir. Her ikisi de önceden söylenmeyenleri söylemişlerdir.”
@@ -66,23 +61,14 @@ bölümünün şerhidir.
 **Kitap on bölümden oluşmaktadır:**
 
 1. Bölüm: Bidat kavramının tarifi, bidat çerçevesine giren ve girmeyen inanç ve filler üzerinde etraflıca durulmuştur.
-
 2. Bölüm: Bidatın kötülüğü ve bidatçıların hem dünya hemde ahiret hayatı açısından akıbetlerinin hüsran olacağı temel fikri işlenmiş ve nakiller yapılmıştır.
-
 3. Bölüm: Bidat kavramının içerdiği alanlar ve bidatı icat edenin durumuna ayrılan bu bölümde alimlerin görüşlerine yer verilmiştir.
-
 4. Bölüm: Bidat ehlinin kendilerini haklı çıkarmak için yaptıkları istidlallerdeki yanlışlara tahsis edilerek birçok örnek zikredilmiştir.
-
 5. Bölüm: Dini ve akli hiçbir dayanağı bulunmayan hakiki bidatle aslı itibariyle dayanağı bulunmakta birlikte aldığı şekil açısından mesnetsiz kalan izafi bidat ele alınmıştır.
-
 6. Bölüm: Bidat sayılan davranışların dini hükmüne temas edilmiştir.
-
 7. Bölüm: İlke olarak ibadetler için söz konusu olan bidatın adetler için düşünülüp düşünülemeyeceği hususu tartışılmıştır.
-
 8. Bölüm: Bidat ; maslahat-ı mürsele ve istihsan arasındaki fark ele alınmıştır.
-
 9. Bölüm: Bidatçıların müslüman çoğunluğundan ayrılmasının sebepleri üzerinde durulmuştur.
-
 10. Bölüm: Kurtuluşa götüren hak mezhebin özelliklerine ayrılmış ve nasları doğru anlayıp açıklamada dikkat edilecek hususlara temas edilmiştir.
 
 Özet: Rüveyda Ateş \~ Kulliyetu Nevâ \~
