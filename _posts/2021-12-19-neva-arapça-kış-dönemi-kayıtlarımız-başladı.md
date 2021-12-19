@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neva Arapça Kış Dönemi Kayıtlarımız Başladı!
+title: Neva Arapça 2021 Kış Dönemi Kayıtlarımız Başladı!
 date: 2021-12-19T19:23:07.479Z
 author: kulliyetuneva
 categories:
