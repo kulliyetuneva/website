@@ -11,7 +11,7 @@ image: /assets/images/zaman.jpg
 ---
 <!--StartFragment-->
 
-Rabbimizin lütfu olan nadide günlerden birini daha geride bıraktık. Neva 1.Kitap Tahlili programımızı elhamdülillah gerçekleştirdik. Çok kıymetli öğrencilerimiz ve dostlarımızdan müteşekkil 150 kişilik bir grup ile aylık belirlediğimiz bir kitabı evlerimizde okumak ve birlikte değerlendirmesini yapmak üzere bu programa niyet etmiştik. Küçük ve dağınık halde olan okuma gruplarımızı bir araya getirmek ve kitaplar üzerinden ortak bir düşünce, söylem ve eylem zemini oluşturmak gayesiyle başladığımız toplu okumalarımız Allah’ın izniyle ilk ay için oldukça verimli, samimi ve istifadeli geçti.
+> Rabbimizin lütfu olan nadide günlerden birini daha geride bıraktık. Neva 1.Kitap Tahlili programımızı elhamdülillah gerçekleştirdik. Çok kıymetli öğrencilerimiz ve dostlarımızdan müteşekkil 150 kişilik bir grup ile aylık belirlediğimiz bir kitabı evlerimizde okumak ve birlikte değerlendirmesini yapmak üzere bu programa niyet etmiştik. Küçük ve dağınık halde olan okuma gruplarımızı bir araya getirmek ve kitaplar üzerinden ortak bir düşünce, söylem ve eylem zemini oluşturmak gayesiyle başladığımız toplu okumalarımız Allah’ın izniyle ilk ay için oldukça verimli, samimi ve istifadeli geçti.
 
 \*\**
 
@@ -60,8 +60,6 @@ Son olarak yine kitaptan şu tesirli nakille sözlerimizi bitirelim:
 Abdullah bin Mes'ûd (r.a) demiştir ki: *"Üzerine güneşin battığı, ömrümün eksildiği, ancak amelimin artmadığı bir güne duyduğum pişmanlık kadar başka birşeye pişmanlık duymadım."*
 
 **Kulliyetu Neva**
-
-
 
 ![](/assets/images/zaman2.jpg)
 
