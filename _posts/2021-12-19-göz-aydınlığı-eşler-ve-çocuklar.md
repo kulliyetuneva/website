@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Göz Aydınlığı Eşler ve Çocuklar
+title: Göz Aydınlığı Eşler ve Çocuklar (Çeviri)
 date: 2021-12-19T21:27:28.833Z
 author: kulliyetuneva
 categories:
