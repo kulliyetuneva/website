@@ -37,11 +37,3 @@ items:
         link: /
       - name: Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
         link: /
-  - name: Tebliğ Kartları
-    subitems:
-      - name: Seçme Âyetler
-        link: /
-      - name: Nebi (as)'dan İnciler
-        link: /
-      - name: Öncü Şahsiyetler
-        link: /
