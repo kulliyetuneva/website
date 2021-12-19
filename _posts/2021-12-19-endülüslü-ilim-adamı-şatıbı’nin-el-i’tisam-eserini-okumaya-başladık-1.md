@@ -42,14 +42,8 @@ Yine Şatıbi’nin yaşadığı hicri sekizinci yüzyıl hem Doğu hem Bat
 **Eserleri:**
 
 1. El-Muvâfakat fî Usûli’ş-Şerî’a: Fıkıh usûlü ile ilgili bir eserdir.
-2. Unvânu’t Tarif bi Esrâri’t Teklif: Fıkıh usûlü ile yazdığı kitaba öncelikle bu ismi vermiş
-
-sonrasında ise ismini“el-Muvâfakât” şeklinde değiştirmiştir.
-
-3. El-Mecalis: Sahih-i Buharî isimli hadis kitabının alış-verişlerle ilgili olan Kaitabü’l- Bey
-
-bölümünün şerhidir.
-
+2. Unvânu’t Tarif bi Esrâri’t Teklif: Fıkıh usûlü ile yazdığı kitaba öncelikle bu ismi vermiş sonrasında ise ismini“el-Muvâfakât” şeklinde değiştirmiştir.
+3. El-Mecalis: Sahih-i Buharî isimli hadis kitabının alış-verişlerle ilgili olan Kaitabü’l- Bey bölümünün şerhidir.
 4. Şerhu’l-Elfiye: Dil bilimci İbn Malik’in nahivle ilgili olan “Elfiye “ isimli eserinin şerhidir.
 5. El-ifadât ve’l-İnşâdât: Edebiyat ile ilgili bir eserdir.
 6. Unvanu’l-İttifak fî İlm’i-İştikâk: Arap diliyle iligili bir çalışmadır.
@@ -71,6 +65,8 @@ bölümünün şerhidir.
 9. Bölüm: Bidatçıların müslüman çoğunluğundan ayrılmasının sebepleri üzerinde durulmuştur.
 10. Bölüm: Kurtuluşa götüren hak mezhebin özelliklerine ayrılmış ve nasları doğru anlayıp açıklamada dikkat edilecek hususlara temas edilmiştir.
 
-Özet: Rüveyda Ateş \~ Kulliyetu Nevâ \~
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**Özet: Rüveyda Ateş \~ Kulliyetu Nevâ \~**
 
 <!--EndFragment-->
