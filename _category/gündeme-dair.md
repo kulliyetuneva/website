@@ -1,3 +1,3 @@
 ---
-title: Gündeme Dair
+title: Güne Dair
 ---
