@@ -5,7 +5,7 @@ date: 2021-02-11T21:29:00.754Z
 author: kulliyetuneva
 categories:
   - Davet & Tebliğ Kartları
-featured: true
+featured: false
 sticky: true
 image: /assets/images/ahzab-suresi-35.-ayet-bordo.jpg
 ---
