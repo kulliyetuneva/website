@@ -1,11 +1,11 @@
 items:
   - name: Hakkımızda
     link: /hakkimizda
-  - name: Neva Arapça
+  - name: Arapça
     link: /category/neva-arapca/
-  - name: Neva Hafızlık
+  - name: Hafızlık
     link: /category/neva-hafizlik
-  - name: Neva İslâmî İlimler
+  - name: İslâmî İlimler
     link: /category/neva-islami-ilimler
     subitems:
       - name: Tümü
@@ -18,13 +18,13 @@ items:
         link: /category/muslumanlarin-tarihi
       - name: Siyer-i Nebi
         link: /category/siyer-i-nebi
-  - name: Neva Çeviri
+  - name: Çeviri
     subitems:
       - name: Tüm Çeviriler
         link: /category/neva-ceviri/
       - name: Hanım Şahsiyetler
         link: /category/neva-ceviri-hanim-sahsiyetler/
-  - name: Neva Kitap Tahlili
+  - name: Kitap Tahlili
     link: /category/neva-kitap-tahlili/
     subitems: []
   - name: Dr.İyad Kunaybi
