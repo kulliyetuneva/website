@@ -4,37 +4,39 @@ items:
   - name: Hakkımızda
     link: /about
   - name: Neva Arapça
-    link: /category/neva-arapça/
+    link: /category/neva-arapca/
   - name: Neva Hafızlık
-    link: /
+    link: /category/neva-hafizlik
   - name: Neva İslâmî İlimler
-    link: /
+    link: /category/neva-islami-ilimler
     subitems:
       - name: el-İ'tisâm Dersi
-        link: /
+        link: /category/el-itisam-dersi
       - name: el-Edeb'ül-Müfred Dersi
-        link: /
+        link: /category/el-edebul-mufred-dersi
       - name: Müslümanların Tarihi
-        link: /
+        link: /category/muslumanlarin-tarihi
       - name: Siyer-i Nebi
-        link: /
+        link: /category/siyer-i-nebi
   - name: Neva Çeviri
     subitems:
       - name: Tüm Çeviriler
-        link: /category/neva-çeviri/
+        link: /category/neva-ceviri/
       - name: Hanım Şahsiyetler
-        link: /category/neva-çeviri-hanım-şahsiyetler/
+        link: /category/neva-ceviri-hanim-sahsiyetler/
   - name: Neva Kitap Tahlili
-    link: https://kulliyetuneva.com/neva-1-kitap-tahlili/
+    link: /category/neva-1-kitap-tahlili/
     subitems: []
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
+      - name: Tumu
+        link: /category/dr-iyad-kunaybi
       - name: İmanın Hakikatine Yolculuk
-        link: /imanin-hakikatine-yolculuk
+        link: /category/imanin-hakikatine-yolculuk
       - name: Kadın ve Aile Serisi
-        link: /
+        link: /category/kadin-ve-aile-serisi
       - name: Hüsn-ü Zan Serisi
-        link: /
+        link: /category/husn-u-zan-serisi
       - name: Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
-        link: /
+        link: /category/aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
