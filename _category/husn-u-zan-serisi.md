@@ -1,3 +1,3 @@
 ---
-title: Hüsn-ü Zan Serisi
+title: Dr.İyad Kunaybi - Hüsn-ü Zan Serisi
 ---
