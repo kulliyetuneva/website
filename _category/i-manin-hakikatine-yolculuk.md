@@ -1,3 +1,3 @@
 ---
-title: İmanın Hakikatine Yolculuk
+title: Dr.İyad Kunaybi - İmanın Hakikatine Yolculuk
 ---
