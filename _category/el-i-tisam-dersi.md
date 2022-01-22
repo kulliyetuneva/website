@@ -1,3 +1,3 @@
 ---
-title: el-İ'tisâm Dersi
+title: Neva İslâmî İlimler - el-İ'tisâm Dersi
 ---
