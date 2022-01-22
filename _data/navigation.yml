@@ -2,7 +2,7 @@ items:
   - name: Anasayfa
     link: /
   - name: Hakkımızda
-    link: /about
+    link: /hakkimizda
   - name: Neva Arapça
     link: /category/neva-arapca/
   - name: Neva Hafızlık
@@ -25,7 +25,7 @@ items:
       - name: Hanım Şahsiyetler
         link: /category/neva-ceviri-hanim-sahsiyetler/
   - name: Neva Kitap Tahlili
-    link: /category/neva-1-kitap-tahlili/
+    link: /category/neva-kitap-tahlili/
     subitems: []
   - name: Dr.İyad Kunaybi
     link: /
