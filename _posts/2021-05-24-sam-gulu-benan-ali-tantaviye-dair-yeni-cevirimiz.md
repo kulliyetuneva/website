@@ -3,12 +3,12 @@ layout: post
 title: Şam Gülü Benân Ali Tantâvî'ye Dair Yeni Çevirimiz
 date: 2021-03-31T21:54:07.341Z
 author: kulliyetuneva
-featured: true
+featured: false
 tags:
   - "#nevaceviri"
 categories:
   - Neva Çeviri
-  - Neva Çeviri - Hanım Şahsiyetler
+  - Öncü Şahsiyetler
 image: /assets/images/167504369_3681710185292035_1379218261069971321_n.jpg
 ---
 <!--StartFragment-->

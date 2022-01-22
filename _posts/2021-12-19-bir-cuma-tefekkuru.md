@@ -4,9 +4,9 @@ title: Bir Cuma Tefekkürü
 date: 2019-12-20T20:21:42.398Z
 author: kulliyetuneva
 categories:
-  - Gündeme Dair
+  - el-Edeb'ül-Müfred Dersi
 featured: false
-sticky: true
+sticky: false
 image: /assets/images/erciyes-dagi-1.jpg
 ---
 <!--StartFragment-->
@@ -29,11 +29,9 @@ Mü'min kendisine fayda vermeyen bütün menfî duyguları bırakıp, fayda vere
 
 Bize mü'minin afiyet içinde yaşamasının en büyük nimet ve şükür sebebi olduğunu hatırlatan Efendimize salât ve selam olsun.
 
-Kulliyetu Neva
 
 
-
-[\#edebülmüfred](https://www.facebook.com/hashtag/edeb%C3%BClm%C3%BCfred?__eep__=6&__cft__[0]=AZWt9Egt_uss7rwM5a47W5UKlgN68K2TZY0puwQptYKMypacS_S2zXESR0wfYJsVV4mO7DiJnDqeh-TFNj5FL2tKwEVWzWJCimsqJHfxKhZlczVq7Fe81Br9EPvPCoK3SkpSI9uXYO5XX1ZwvYIS8mQZ&__tn__=*NK-R) [\#nevailimhalkası](https://www.facebook.com/hashtag/nevailimhalkas%C4%B1?__eep__=6&__cft__[0]=AZWt9Egt_uss7rwM5a47W5UKlgN68K2TZY0puwQptYKMypacS_S2zXESR0wfYJsVV4mO7DiJnDqeh-TFNj5FL2tKwEVWzWJCimsqJHfxKhZlczVq7Fe81Br9EPvPCoK3SkpSI9uXYO5XX1ZwvYIS8mQZ&__tn__=*NK-R)
+**\| Kulliyetu Neva**
 
 
 

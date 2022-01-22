@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 {% assign author = site.authors[page.author] %}
 <div class="container">
@@ -11,7 +12,7 @@ layout: default
                     <p class="text-uppercase font-weight-bold">
                         <span class="catlist">
                             {% for category in page.categories %}
-                                <a class="sscroll text-danger" href="{{site.baseurl}}/category/{{ category | slugify: "latin" }}">
+                                <a class="sscroll text-danger" href="{{ category | make_category_url }}">
                                     {{ category | downcase }}
                                 </a>
                                 <span class="sep">, </span>
@@ -23,9 +24,11 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{author.avatar}}" alt="{{author.name}}" width="70" />
                         {% endif %}
-                        <small class="ml-3"> {{ author.name }} <span></span>
-                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include
-                                meta-read-time.html %}</span>
+                        <small class="ml-3">
+                            {{ author.name }}
+                            <span></span>
+                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+                            <span class="text-muted d-block mt-1"><span id="unique-counter"></span> kişi tarafından <span id="total-counter"></span> kere görüntülendi. </span>
                         </small>
                     </div>
                 </div>

@@ -1,3 +1,3 @@
 ---
-title: Dr.İyad Kunaybi
+title: Prof. Dr. İyad Kunaybi
 ---

@@ -5,6 +5,7 @@ date: 2021-11-10T19:31:28.683Z
 author: kulliyetuneva
 categories:
   - Gündeme Dair
+  - Muallime
 featured: false
 sticky: false
 image: /assets/images/put.jpg

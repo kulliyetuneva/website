@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yûsuf Sûresi (Çeviri)
+title: Bir Tedavi Reçetesi Olarak Yûsuf Sûresi (Çeviri)
 date: 2021-12-19T21:47:30.402Z
 author: kulliyetuneva
 categories:

@@ -5,7 +5,7 @@ date: 2020-02-16T20:09:07.378Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
-featured: true
+featured: false
 sticky: false
 image: /assets/images/zaman.jpg
 ---

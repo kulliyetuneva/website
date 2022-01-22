@@ -4,9 +4,9 @@ title: Sevgili Kız Kardeşim Sukeyne'ye... (Çeviri)
 date: 2021-12-19T20:28:15.596Z
 author: kulliyetuneva
 categories:
-  - Neva Çeviri - Hanım Şahsiyetler
   - Neva Çeviri
-featured: true
+  - Öncü Şahsiyetler
+featured: false
 sticky: false
 image: /assets/images/sukeyne.jpg
 ---

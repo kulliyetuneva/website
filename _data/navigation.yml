@@ -3,42 +3,46 @@ items:
     link: /
   - name: Hakkımızda
     link: /hakkimizda
-  - name: Neva Arapça
+  - name: Arapça
     link: /category/neva-arapca/
-  - name: Neva Hafızlık
-    link: /category/neva-hafizlik
-  - name: Neva İslâmî İlimler
-    link: /category/neva-islami-ilimler
+  - name: İslâmî İlimler
     subitems:
-      - name: Tümü
+      - name: Genel
         link: /category/neva-islami-ilimler
-      - name: el-İ'tisâm Dersi
-        link: /category/el-itisam-dersi
+      - name: Kur'an ve Hâfızlık
+        link: /category/kuran-ve-hafizlik
       - name: el-Edeb'ül-Müfred Dersi
         link: /category/el-edebul-mufred-dersi
+      - name: el-İ'tisâm Dersi
+        link: /category/el-itisam-dersi
       - name: Müslümanların Tarihi
         link: /category/muslumanlarin-tarihi
       - name: Siyer-i Nebi
         link: /category/siyer-i-nebi
-  - name: Neva Çeviri
+  - name: Çeviri
     subitems:
-      - name: Tüm Çeviriler
+      - name: Genel
         link: /category/neva-ceviri/
-      - name: Hanım Şahsiyetler
-        link: /category/neva-ceviri-hanim-sahsiyetler/
-  - name: Neva Kitap Tahlili
-    link: /category/neva-kitap-tahlili/
-    subitems: []
-  - name: Dr.İyad Kunaybi
-    link: /
+      - name: Öncü Şahsiyetler
+        link: /category/hanim-sahsiyetler/
+      - name: Ahmed es-Seyyid
+        link: /category/ahmed-es-seyyid/
+      - name: Hüseyin Abdurrazık
+        link: /category/huseyin-abdurrazik/
+  - name: İyad Kunaybi
     subitems:
-      - name: Tüm Konular
+      - name: Genel
         link: /category/dr-iyad-kunaybi
-      - name: İmanın Hakikatine Yolculuk
-        link: /category/imanin-hakikatine-yolculuk
+      - name: İmanın Hakikatine Yolculuk Serisi
+        link: /category/imanin-hakikatine-yolculuk-serisi
       - name: Kadın ve Aile Serisi
         link: /category/kadin-ve-aile-serisi
       - name: Hüsn-ü Zan Serisi
         link: /category/husn-u-zan-serisi
-      - name: Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
+      - name: Aile, Toplum ve Ahlâka Dair Muhtelif Çeviriler
         link: /category/aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
+  - name: Kitap Tahlili
+    link: /category/neva-kitap-tahlili/
+    subitems: []
+  - name: Muallime
+    link: /category/muallime

@@ -11,7 +11,7 @@
                 <span class="d-block text-muted">
                     <span class="catlist">
                         {% for category in post.categories %}
-                            <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/category/{{ category | slugify: "latin" }}">
+                            <a class="text-capitalize text-muted smoothscroll" href="{{ category | make_category_url }}">
                                 {{ category }}
                             </a>
                             <span class="sep">, </span>
@@ -37,6 +37,16 @@
         <a class="btn btn btn-outline-light btn-md btn-round ml-2" target="_blank" style="background-color: #ac2bac;" href="{{ site.authors['kulliyetuneva'].instagram }}" role="button">
             <i class="fab fa-instagram"></i>
         </a>
+    </div>
+
+    <h4 class="font-weight-bold spanborder"></h4>
+
+    <h4 class="font-weight-bold spanborder"><span>Ziyaretçilerimiz</span></h4>
+    <div class="mb-2">
+        <span class="views">
+            Tekil: <span id="unique-counter"></span> <br />
+            Toplam: <span id="total-counter"></span>
+        </span>
     </div>
 
 </div>

@@ -1,10 +1,10 @@
 # Site
 name: 'Kulliyetu Neva'
 description: ''
-logo: '/assets/images/kulliyetu-nevâ-logo.png'
-favicon: '/assets/images/favicon.ico'
+logo: 'assets/images/kulliyetu-nevâ-logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: ''
+disqus: 'kulliyetuneva'
 email: ''
 
 include: ["_pages"]
