@@ -1,3 +1,3 @@
 ---
-title: Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
+title: Dr.İyad Kunaybi - Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
 ---
