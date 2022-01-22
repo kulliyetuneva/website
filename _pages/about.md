@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Hakkımızda
-permalink: /about
+permalink: /hakkimizda
 comments: true
 ---
 **Kulliyetu Neva'ya Dair**
