@@ -4,7 +4,7 @@ title: Çocuklarımızın İmanı Tehlikede! (Çeviri)
 date: 2021-11-04T19:36:42.046Z
 author: kulliyetuneva
 categories:
-  - "Dr.İyad Kunaybi "
+  - Dr.İyad Kunaybi
 featured: true
 sticky: false
 image: /assets/images/çocuklarımızın-imanı-tehlikede-kapak-.jpg

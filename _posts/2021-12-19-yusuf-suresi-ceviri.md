@@ -9,8 +9,6 @@ featured: true
 sticky: false
 image: /assets/images/90527880_2679062548890142_6539585907186466816_n.jpg
 ---
-<!--StartFragment-->
-
 **Yûsuf Sûresi**
 
 Her ne zaman ailevi sorunlardan, maddi bir kayıptan, hastalıktan veya sevdiği birisini kaybetmekten ötürü sıkıntılı veya üzgün bir kimse görsem ona Yûsuf Sûresini okumasını tavsiye ederim.
@@ -36,5 +34,3 @@ Devam ettim: "Bu sûrede Yûsuf aleyhisselâmın karşı karşıya geldiği bir 
 **\| Dr.Câsim el-Mutavva'** 
 
 **\| Çeviri: Kulliyetu Neva**
-
-<!--EndFragment-->

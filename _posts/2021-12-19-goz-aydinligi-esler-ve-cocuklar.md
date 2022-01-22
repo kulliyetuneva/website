@@ -4,7 +4,7 @@ title: Göz Aydınlığı Eşler ve Çocuklar (Çeviri)
 date: 2021-12-19T21:27:28.833Z
 author: kulliyetuneva
 categories:
-  - "Dr.İyad Kunaybi "
+  - Dr.İyad Kunaybi
 featured: true
 sticky: true
 image: /assets/images/göz-aydınlık.jpg

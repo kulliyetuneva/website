@@ -7,6 +7,10 @@ backend:
 local_backend: true
 media_folder: "assets/images"
 locale: "tr"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 collections:
   - name: "post" # Used in routes, e.g., /admin/collections/blog
     label: "Yazı" # Used in the UI
