@@ -1,3 +1,3 @@
 ---
-title: Siyer-i Nebi
+title: Neva İslâmî İlimler - Siyer-i Nebi
 ---
