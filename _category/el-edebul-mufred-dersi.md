@@ -1,3 +1,3 @@
 ---
-title: el-Edeb'ül-Müfred Dersi
+title: Neva İslâmî İlimler - el-Edeb'ül-Müfred Dersi
 ---
