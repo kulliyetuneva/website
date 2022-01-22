@@ -10,6 +10,8 @@ items:
   - name: Neva İslâmî İlimler
     link: /category/neva-islami-ilimler
     subitems:
+      - name: Tümü
+        link: /category/neva-islami-ilimler
       - name: el-İ'tisâm Dersi
         link: /category/el-itisam-dersi
       - name: el-Edeb'ül-Müfred Dersi
