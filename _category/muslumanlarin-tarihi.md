@@ -1,3 +1,3 @@
 ---
-title: Müslümanların Tarihi
+title: Neva İslâmî İlimler - Müslümanların Tarihi
 ---
