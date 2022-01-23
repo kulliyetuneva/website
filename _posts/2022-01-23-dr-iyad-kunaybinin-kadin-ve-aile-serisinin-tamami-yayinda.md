@@ -26,7 +26,7 @@ Seri, Batılı kadının hikayesi ile başlıyor. Kadının "özgürleştirilmes
 
 Biz de halkımızın sadece Türkçe alt yazılı olarak seriye daha pratik bir şekilde ulaşıp, paylaşabilmesi için Hocanın izniyle kendi kanallarımızda da "Kadın ve Aile Serisi" adıyla yayınladık. Hem Josef İslam hem de Kulliyetu Neva Youtube kanallarından izleyebilirsiniz. Hem tanıtım videosunu hazırlayarak hem de videoları yeniden yayına hazırlayarak serinin tanınmasına katkı sağlayan @Josef İslam ekibinden kardeşlerimize de huzurunuzda teşekkür ederiz. Rabbimiz razı olacağı amellerde tüm kardeşlerimizle ortak hareket edip, hayrın yayılmasına katkı sağlamayı nasip etsin. 
 
-![](/assets/images/kapak.jpg)
+{% youtube https://youtu.be/WtgfMkNtSc0 %}
 
 Sizleri bu güzel ve toplumumuzdaki pek çok soruna da işaret eden ve çözümler öneren bu seriyi muhakkak izlemeye ve farklı dil seçenekleri ile de yayınlanan bu videoları Batı'daki tanıdıklarınıza da duyurmaya davet ediyoruz. İnşaAllah faydası umulandan çok olur. Rabbimiz, Dr.İyad'dan razı olsun, bu amelini onun için ahiret azığı eylesin. 
 
