@@ -22,6 +22,6 @@ Dr.İyad Kunaybi'nin konuyla ilgili değerlendirmeler yaptığı arşiv niteliğ
 
 Bu dosyayı okuduğunuzda uluslararası kuruluşların ve dünya medyasının kadın hakları ve genel olarak insan hakları hususunda ne kadar yapmacık bir duyarlılık içinde olduklarını çok daha net görme imkanı bulacağınıza inanıyoruz, umarız faydası çok olur.
 
-![🔹](https://www.facebook.com/images/emoji.php/v9/tf3/1/16/1f539.png)**Dosyayı İndirmek İçin ️Telegram Kanalımız:** [](http://t.me/kulliyetuneva?fbclid=IwAR2Y36nqJ3l9McrpzMq3ERO4VKbgYLxNp1JiwywPH_pIxSTsosmvajX50Nw)[T.me/kulliyetuneva](t.me/kulliyetuneva)
+**Dosyayı indirmek için Telegram kanalımız:** <https://t.me/kulliyetuneva>
 
 <!--EndFragment-->
