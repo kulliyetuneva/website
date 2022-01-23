@@ -26,9 +26,6 @@ items:
         link: /category/neva-ceviri/
       - name: Hanım Şahsiyetler
         link: /category/neva-ceviri-hanim-sahsiyetler/
-  - name: Kitap Tahlili
-    link: /category/neva-kitap-tahlili/
-    subitems: []
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
@@ -42,5 +39,8 @@ items:
         link: /category/dr-iyad-kunaybi-husn-u-zan-serisi
       - name: Aile, Toplum ve Ahlâka Dair Muhtelif Çeviriler
         link: /category/dr-iyad-kunaybi-aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
+  - name: Kitap Tahlili
+    link: /category/neva-kitap-tahlili/
+    subitems: []
   - name: Muallime
     link: /category/muallime
