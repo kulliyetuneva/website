@@ -1,3 +1,3 @@
 ---
-title: Muallime Güncesi
+title: Muallime
 ---
