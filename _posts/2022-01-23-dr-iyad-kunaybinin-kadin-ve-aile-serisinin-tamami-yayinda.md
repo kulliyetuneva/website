@@ -30,9 +30,11 @@ Biz de halkımızın sadece Türkçe alt yazılı olarak seriye daha pratik bir 
 
 Sizleri bu güzel ve toplumumuzdaki pek çok soruna da işaret eden ve çözümler öneren bu seriyi muhakkak izlemeye ve farklı dil seçenekleri ile de yayınlanan bu videoları Batı'daki tanıdıklarınıza da duyurmaya davet ediyoruz. İnşaAllah faydası umulandan çok olur. Rabbimiz, Dr.İyad'dan razı olsun, bu amelini onun için ahiret azığı eylesin. 
 
-\*Dr.İyad Kunaybi'nin resmi youtube kanalına abone olarak seriyi farklı dil seçenekleri ile de takip edebilir, Batı'daki tanıdıklarınız arasında yayılmasına vesile olabilirsiniz: 
+*\*Dr.İyad Kunaybi'nin resmi youtube kanalına abone olarak seriyi farklı dil seçenekleri ile de takip edebilir, Batı'daki tanıdıklarınız arasında yayılmasına vesile olabilirsiniz:* 
 
-Dr.Eyad Qunaibi-Global Channel : <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
+Dr.Eyad Qunaibi-Global Channel: <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
+
+*\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:* <https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q>
 
 KULLİYETU NEVA
 
