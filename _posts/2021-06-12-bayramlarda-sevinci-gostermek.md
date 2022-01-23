@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bayramlarda Sevinci Göstermek
+title: Bayramlarda Sevinci Göstermek (Çeviri)
 date: 2021-05-14T21:43:11.201Z
 author: kulliyetuneva
 categories:
