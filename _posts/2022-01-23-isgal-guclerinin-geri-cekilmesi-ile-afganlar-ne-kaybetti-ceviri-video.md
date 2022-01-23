@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İşgal Güçlerinin Geri Çekilmesi İle Afganlar Ne Kaybetti? (Çeviri-Video)
+title: İşgal Güçlerinin Geri Çekilmesi ile Afganlar Ne Kaybetti? (Çeviri-Video)
 date: 2022-01-05T12:17:55.805Z
 author: kulliyetuneva
 categories:
