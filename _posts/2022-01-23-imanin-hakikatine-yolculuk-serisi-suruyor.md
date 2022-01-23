@@ -12,7 +12,7 @@ image: /assets/images/68460064_2704323632960158_5507495817029615616_n.png
 ---
 <!--StartFragment-->
 
-{% youtube https://www.youtube.com/watch?v=AYJV4x44SM0&list=PLB0wchdvkLi1FKF0TUQgca3dxqitRsUR6&index=1 %}
+{% youtube https://www.youtube.com/watch?v=AYJV4x44SM0 %}
 
 **Rıhlet'ul-Yakîn / İmanın Hakikatine Yolculuk** 
 
