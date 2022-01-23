@@ -16,6 +16,8 @@ Rabbimizin nimetine hamdolsun.
 
 Aylarca süren ciddi bir gayretle Arap-Türk kardeşlerimizden müteşekkil bir grupla Dr.İyad'ın çok büyük bir emekle hazırladığı "Kadın Serisi"nin şimdiye dek yayınlanan 20 bölümünün çevirisini tamamladık. 
 
+**SERİNİN TÜM LİSTESİ:** 
+
 <https://www.youtube.com/watch?v=lgJHg4xC2Kw&list=PLB0wchdvkLi2Q7YCgpfNA302x1nrOOeNg>
 
 Seri, Batılı kadının hikayesi ile başlıyor. Kadının "özgürleştirilmesi" adına nasıl modern bir köle haline getirildiğine dikkat çekerek, Doğu kadınlarına model olarak sunulan Batılı kadınların maruz kaldıkları psikolojik ve fiziksel acılar, pek çok örnek eşliğinde kaynaklarıyla veriliyor. 
