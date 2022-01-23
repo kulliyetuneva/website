@@ -10,16 +10,16 @@ items:
     subitems:
       - name: Tümü
         link: /category/neva-islami-ilimler
-      - name: el-İ'tisâm Dersi
-        link: /category/neva-islami-ilimler-el-i-tisam-dersi
+      - name: Kur'an ve Hâfızlık
+        link: /
       - name: el-Edeb'ül-Müfred Dersi
         link: /category/neva-islami-ilimler-el-edebul-mufred-dersi
+      - name: el-İ'tisâm Dersi
+        link: /category/neva-islami-ilimler-el-i-tisam-dersi
       - name: Müslümanların Tarihi
         link: /category/neva-islami-ilimler-muslumanlarin-tarihi
       - name: Siyer-i Nebi
         link: /category/neva-islami-ilimler-siyer-i-nebi
-  - name: Hafızlık
-    link: /category/neva-hafizlik
   - name: Çeviri
     subitems:
       - name: Tüm Çeviriler
