@@ -21,8 +21,6 @@ image: /assets/images/245327054_4245769762219405_740852258712859953_n.jpg
 >
 > **“Eğer direnişe silahla destek olamazsam; kalemim ve mürekkebim direniş ve mukâvemet yolunda silahımdır.”**
 
-
-
 5 Mart 2003’de üç yaşındaki hasta kızı ile arabada giderken İsrail tarafından tutuklanan ve halen hapiste olan Abdullah Galib Bergusi’ye kızının büyüdükten sonra yazdığı “Babacığım, sen kimsin?” sorulu mektubu üzerine yaşadıklarını anlattığı gerçek bir hayat hikayesi.
 
 Kitap, oldukça akıcı ve samimi bir üslupla kaleme alınmış, çevirisi de güzel. Filistin davasının Filistinliler nazarında ne ifade ettiğini sahada yaşayan, tecrübe aktarımında bulunan bir mücahidin kaleminden okumak, nazari pek çok bilgiye bedel oluyor. Davasına sadık bir Müslümanın dört duvar arasında esir de olsa Allah onun sesini duyurmak istediğinde buna kimsenin mâni olamayacağını, Allah'ın, kendi dinine yardım edenlerin yardımcısı olduğunu bir kez daha kavrıyorsunuz. 
