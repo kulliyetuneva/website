@@ -16,7 +16,7 @@ image: /assets/images/271406189_4528324553963923_7287431501925354096_n.jpg
 
 Dr.İyad Kunaybi'nin konuyla ilgili değerlendirmeler yaptığı arşiv niteliğindeki 38 dk'lık videosunu Youtube kanalımızda yayınlamıştık. Buradan izleyebilirsiniz:
 
-{% youtube https://www.youtube.com/watch?v=ESFfGGLhOVA&t=2071s %}
+{% youtube https://youtu.be/ESFfGGLhOVA %}
 
 Şimdi ise videodaki bilgi ve belgelere daha rahat erişilebilmesi için resimler ve dipnotlar eşliğinde hazırladığımız 25 sayfalık pdf dosyasını istifadeye sunuyoruz.
 
