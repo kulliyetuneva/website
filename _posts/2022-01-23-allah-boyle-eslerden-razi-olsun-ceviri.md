@@ -4,7 +4,7 @@ title: Allah Böyle Eşlerden Razı Olsun (Çeviri)
 date: 2022-01-23T11:26:45.307Z
 author: kulliyetuneva
 categories:
-  - Muallime Güncesi
+  - Neva Çeviri
 featured: true
 sticky: true
 comments: true
