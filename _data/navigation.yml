@@ -11,13 +11,13 @@ items:
       - name: Tümü
         link: /category/neva-islami-ilimler
       - name: el-İ'tisâm Dersi
-        link: /category/el-i-tisam-dersi
+        link: /category/neva-islami-ilimler-el-i-tisam-dersi
       - name: el-Edeb'ül-Müfred Dersi
-        link: /category/el-edebul-mufred-dersi
+        link: /category/neva-islami-ilimler-el-edebul-mufred-dersi
       - name: Müslümanların Tarihi
-        link: /category/muslumanlarin-tarihi
+        link: /category/neva-islami-ilimler-muslumanlarin-tarihi
       - name: Siyer-i Nebi
-        link: /category/siyer-i-nebi
+        link: /category/neva-islami-ilimler-siyer-i-nebi
   - name: Çeviri
     subitems:
       - name: Tüm Çeviriler
@@ -33,10 +33,10 @@ items:
       - name: Tüm Konular
         link: /category/dr-iyad-kunaybi
       - name: İmanın Hakikatine Yolculuk
-        link: /category/i-manin-hakikatine-yolculuk
+        link: /category/dr-iyad-kunaybi-i-manin-hakikatine-yolculuk
       - name: Kadın ve Aile Serisi
-        link: /category/kadin-ve-aile-serisi
+        link: /category/dr-iyad-kunaybi-kadin-ve-aile-serisi
       - name: Hüsn-ü Zan Serisi
-        link: /category/husn-u-zan-serisi
+        link: /category/dr-iyad-kunaybi-husn-u-zan-serisi
       - name: Aile-Toplum ve Ahlaka Dair Muhtelif Çeviriler
-        link: /category/aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
+        link: /category/dr-iyad-kunaybi-aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
