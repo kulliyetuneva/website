@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kur'an'la Aranız Nasıl? (Çeviri)
-date: 2022-01-23T18:33:25.151Z
+date: 2021-12-28T18:33:25.151Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
