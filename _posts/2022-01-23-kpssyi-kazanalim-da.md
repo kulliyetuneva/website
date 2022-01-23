@@ -4,7 +4,7 @@ title: Kpss'yi kazanalım da!
 date: 2022-01-01T11:31:31.163Z
 author: kulliyetuneva
 categories:
-  - Muallime Güncesi
+  - Muallime
 featured: true
 sticky: false
 comments: true
