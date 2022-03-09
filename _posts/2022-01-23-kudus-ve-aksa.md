@@ -5,7 +5,7 @@ date: 2021-07-11T19:56:09.956Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/216438887_3964569487006102_6561333684340820540_n.jpg
