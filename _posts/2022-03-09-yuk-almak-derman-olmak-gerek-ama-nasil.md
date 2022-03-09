@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yük Almak, Derman Olmak Gerek. Ama Nasıl?
-date: 2022-03-08T14:57:50.436Z
+date: 2022-03-07T14:57:50.436Z
 author: kulliyetuneva
 categories:
   - Muallime
