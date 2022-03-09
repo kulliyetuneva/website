@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ramazan'da Kur'an'la Alakamızı Artırmak İçin Neler Yapabiliriz (2)
+title: Ramazan'da Kur'an'la Alakamızı Artırmak İçin Ne Yapabiliriz (2)
 date: 2022-03-09T12:17:07.715Z
 author: kulliyetuneva
 categories:
