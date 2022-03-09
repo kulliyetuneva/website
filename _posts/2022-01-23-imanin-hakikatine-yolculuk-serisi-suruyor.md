@@ -38,8 +38,6 @@ I Kulliyetu Neva ve Josef İslam Ortak Çalışmasıdır I
 
 <https://www.youtube.com/watch?v=sqet-C_dSDE&list=PLPqH38Ki1fy3EB-8xmShVqpbQw99Do2B->
 
-***\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:*** 
 
-<https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q>
 
 <!--EndFragment-->
