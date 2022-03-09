@@ -5,6 +5,7 @@ date: 2020-04-18T11:45:27.017Z
 author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi - İmanın Hakikatine Yolculuk Serisi
+  - Dr.İyad Kunaybi
 featured: true
 sticky: false
 comments: true
