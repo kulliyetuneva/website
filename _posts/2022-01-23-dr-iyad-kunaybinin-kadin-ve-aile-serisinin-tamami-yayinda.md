@@ -5,6 +5,7 @@ date: 2021-12-20T07:04:45.957Z
 author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi - Kadın ve Aile Serisi
+  - Dr.İyad Kunaybi
 featured: true
 sticky: true
 comments: true
@@ -32,10 +33,10 @@ Sizleri bu güzel ve toplumumuzdaki pek çok soruna da işaret eden ve çözüml
 
 *\*Dr.İyad Kunaybi'nin resmi youtube kanalına abone olarak seriyi farklı dil seçenekleri ile de takip edebilir, Batı'daki tanıdıklarınız arasında yayılmasına vesile olabilirsiniz:* 
 
-Dr.Eyad Qunaibi-Global Channel: <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
+**Dr.Eyad Qunaibi-Global Channel:** <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
 
-*\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:* <https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q>
 
-KULLİYETU NEVA
+
+**KULLİYETU NEVA**
 
 <!--EndFragment-->
