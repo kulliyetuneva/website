@@ -5,7 +5,7 @@ date: 2022-01-05T12:17:55.805Z
 author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/271406189_4528324553963923_7287431501925354096_n.jpg
