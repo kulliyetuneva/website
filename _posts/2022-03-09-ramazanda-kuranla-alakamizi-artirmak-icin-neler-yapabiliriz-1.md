@@ -5,6 +5,7 @@ date: 2022-03-09T12:05:48.250Z
 author: kulliyetuneva
 categories:
   - Muallime
+  - Ramazan
 featured: true
 sticky: true
 comments: true
