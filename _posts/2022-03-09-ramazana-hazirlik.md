@@ -6,6 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Çeviri
   - Ramazan
+  - Hicri Aylar
 featured: true
 sticky: false
 comments: true
