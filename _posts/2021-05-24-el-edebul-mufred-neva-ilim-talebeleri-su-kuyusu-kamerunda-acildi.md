@@ -5,6 +5,7 @@ date: 2019-04-03T20:56:49.448Z
 author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
+  - Hakkımızda
 tags:
   - Edebülmüfredsukuyusu
   - Birkuyununsesi
