@@ -8,10 +8,10 @@ items:
   - name: İslâmî İlimler
     link: /category/neva-islami-ilimler
     subitems:
-      - name: Tümü
+      - name: Genel
         link: /category/neva-islami-ilimler
       - name: Kur'an ve Hâfızlık
-        link: /category/kuran-hafizlik
+        link: /category/kuran-ve-hafizlik
       - name: el-Edeb'ül-Müfred Dersi
         link: /category/neva-islami-ilimler-el-edebul-mufred-dersi
       - name: el-İ'tisâm Dersi
@@ -22,14 +22,14 @@ items:
         link: /category/neva-islami-ilimler-siyer-i-nebi
   - name: Çeviri
     subitems:
-      - name: Tüm Çeviriler
+      - name: Genel
         link: /category/neva-ceviri/
       - name: Hanım Şahsiyetler
         link: /category/neva-ceviri-hanim-sahsiyetler/
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
-      - name: Tüm Konular
+      - name: Genel
         link: /category/dr-iyad-kunaybi
       - name: İmanın Hakikatine Yolculuk Serisi
         link: /category/dr-iyad-kunaybi-imanin-hakikatine-yolculuk-serisi
