@@ -4,7 +4,7 @@ title: '"İmanın Hakikatine Yolculuk" Serisi Sürüyor!'
 date: 2020-04-18T11:45:27.017Z
 author: kulliyetuneva
 categories:
-  - Dr.İyad Kunaybi - İmanın Hakikatine Yolculuk Serisi
+  - İmanın Hakikatine Yolculuk Serisi
   - Dr.İyad Kunaybi
 featured: true
 sticky: false

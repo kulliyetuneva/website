@@ -4,7 +4,7 @@ title: el-Edeb'ül-Müfred Hadis Derslerimiz Yeniden Yüz Yüze Başlıyor!
 date: 2021-10-26T19:43:06.431Z
 author: kulliyetuneva
 categories:
-  - Neva İslâmî İlimler - el-Edeb'ül-Müfred Dersi
+  - el-Edeb'ül-Müfred Dersi
 featured: true
 sticky: false
 image: /assets/images/png_20211021_221347_0000.png

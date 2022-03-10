@@ -8,7 +8,7 @@ tags:
   - "#nevaceviri"
 categories:
   - Neva Çeviri
-  - Neva Çeviri - Hanım Şahsiyetler
+  - Hanım Şahsiyetler
 image: /assets/images/167504369_3681710185292035_1379218261069971321_n.jpg
 ---
 <!--StartFragment-->

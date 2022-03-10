@@ -4,7 +4,7 @@ title: Riyâzu's-Sâlihin'deki 1900 hadisi hem Arapça'sı hem Türkçe'si ile E
 date: 2018-12-17T21:34:23.497Z
 author: kulliyetuneva
 categories:
-  - Neva İslâmî İlimler - el-Edeb'ül-Müfred Dersi
+  - el-Edeb'ül-Müfred Dersi
 featured: true
 sticky: false
 comments: true

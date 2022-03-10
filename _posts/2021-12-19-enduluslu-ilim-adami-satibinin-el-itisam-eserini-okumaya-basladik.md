@@ -4,7 +4,7 @@ title: Endülüslü ilim adamı Şatıbı’nin el-İ’tisam eserini okumaya ba
 date: 2020-02-26T20:43:36.759Z
 author: kulliyetuneva
 categories:
-  - Neva İslâmî İlimler - el-İ'tisâm Dersi
+  - el-İ'tisâm Dersi
 featured: false
 sticky: false
 image: /assets/images/itisam.jpg

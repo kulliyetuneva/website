@@ -4,7 +4,7 @@ title: Cuma Hutbeleri Ne Zaman Dirilecek?
 date: 2022-02-10T14:08:21.744Z
 author: kulliyetuneva
 categories:
-  - Dr.İyad Kunaybi -  Aile,Toplum ve Ahlâka Dair Muhtelif Çeviriler
+  - Aile,Toplum ve Ahlâka Dair Muhtelif Çeviriler
   - Dr.İyad Kunaybi
 featured: true
 sticky: false

@@ -4,7 +4,7 @@ title: Bir Cuma Tefekkürü
 date: 2019-12-20T20:21:42.398Z
 author: kulliyetuneva
 categories:
-  - Neva İslâmî İlimler - el-Edeb'ül-Müfred Dersi
+  - el-Edeb'ül-Müfred Dersi
 featured: false
 sticky: false
 image: /assets/images/erciyes-dagi-1.jpg

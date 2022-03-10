@@ -4,7 +4,7 @@ title: Çocuk Talebeler
 date: 2021-12-14T20:02:09.307Z
 author: kulliyetuneva
 categories:
-  - Neva İslâmî İlimler - el-Edeb'ül-Müfred Dersi
+  - el-Edeb'ül-Müfred Dersi
 featured: true
 sticky: false
 image: /assets/images/edeb1.jpg

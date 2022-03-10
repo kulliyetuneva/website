@@ -4,7 +4,7 @@ title: Dr.İyad Kunaybi'nin Kadın ve Aile Serisi'nin Tamamı Yayında!
 date: 2021-12-20T07:04:45.957Z
 author: kulliyetuneva
 categories:
-  - Dr.İyad Kunaybi - Kadın ve Aile Serisi
+  - Kadın ve Aile Serisi
   - Dr.İyad Kunaybi
 featured: true
 sticky: true
