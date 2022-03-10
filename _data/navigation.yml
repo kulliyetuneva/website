@@ -4,43 +4,43 @@ items:
   - name: Hakkımızda
     link: /hakkimizda
   - name: Arapça
-    link: /category/neva-arapca/
+    link: /category/arapca/
   - name: İslâmî İlimler
-    link: /category/neva-islami-ilimler
+    link: /category/islami-ilimler
     subitems:
       - name: Genel
         link: /category/neva-islami-ilimler
       - name: Kur'an ve Hâfızlık
         link: /category/kuran-ve-hafizlik
       - name: el-Edeb'ül-Müfred Dersi
-        link: /category/neva-islami-ilimler-el-edebul-mufred-dersi
+        link: /category/el-edebul-mufred-dersi
       - name: el-İ'tisâm Dersi
-        link: /category/neva-islami-ilimler-el-itisam-dersi
+        link: /category/el-itisam-dersi
       - name: Müslümanların Tarihi
-        link: /category/neva-islami-ilimler-muslumanlarin-tarihi
+        link: /category/muslumanlarin-tarihi
       - name: Siyer-i Nebi
-        link: /category/neva-islami-ilimler-siyer-i-nebi
+        link: /category/siyer-i-nebi
   - name: Çeviri
     subitems:
       - name: Genel
         link: /category/neva-ceviri/
       - name: Hanım Şahsiyetler
-        link: /category/neva-ceviri-hanim-sahsiyetler/
+        link: /category/hanim-sahsiyetler/
   - name: Dr.İyad Kunaybi
     link: /
     subitems:
       - name: Genel
         link: /category/dr-iyad-kunaybi
       - name: İmanın Hakikatine Yolculuk Serisi
-        link: /category/dr-iyad-kunaybi-imanin-hakikatine-yolculuk-serisi
+        link: /category/imanin-hakikatine-yolculuk-serisi
       - name: Kadın ve Aile Serisi
-        link: /category/dr-iyad-kunaybi-kadin-ve-aile-serisi
+        link: /category/kadin-ve-aile-serisi
       - name: Hüsn-ü Zan Serisi
-        link: /category/dr-iyad-kunaybi-husn-u-zan-serisi
+        link: /category/husn-u-zan-serisi
       - name: Aile, Toplum ve Ahlâka Dair Muhtelif Çeviriler
-        link: /category/dr-iyad-kunaybi-aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
+        link: /category/aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
   - name: Kitap Tahlili
-    link: /category/neva-kitap-tahlili/
+    link: /category/kitap-tahlili/
     subitems: []
   - name: Muallime
     link: /category/muallime
