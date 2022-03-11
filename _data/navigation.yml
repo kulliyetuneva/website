@@ -4,9 +4,8 @@ items:
   - name: Hakkımızda
     link: /hakkimizda
   - name: Arapça
-    link: /category/arapca/
+    link: /category/neva-arapca/
   - name: İslâmî İlimler
-    link: /category/islami-ilimler
     subitems:
       - name: Genel
         link: /category/neva-islami-ilimler
@@ -27,7 +26,6 @@ items:
       - name: Hanım Şahsiyetler
         link: /category/hanim-sahsiyetler/
   - name: Dr.İyad Kunaybi
-    link: /
     subitems:
       - name: Genel
         link: /category/dr-iyad-kunaybi
@@ -40,7 +38,7 @@ items:
       - name: Aile, Toplum ve Ahlâka Dair Muhtelif Çeviriler
         link: /category/aile-toplum-ve-ahlaka-dair-muhtelif-ceviriler
   - name: Kitap Tahlili
-    link: /category/kitap-tahlili/
+    link: /category/neva-kitap-tahlili/
     subitems: []
   - name: Muallime
     link: /category/muallime
