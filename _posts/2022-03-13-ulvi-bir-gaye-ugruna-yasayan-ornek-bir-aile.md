@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi
   - Kadın ve Aile Serisi
-featured: false
+featured: true
 sticky: false
 comments: true
 image: /assets/images/168968718_3689534117842975_5926360929968841539_n.jpg
