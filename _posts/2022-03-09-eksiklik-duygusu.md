@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eksiklik Duygusu
-date: 2022-03-08T15:18:18.466Z
+date: 2022-03-07T15:18:18.466Z
 author: kulliyetuneva
 categories:
   - Muallime
