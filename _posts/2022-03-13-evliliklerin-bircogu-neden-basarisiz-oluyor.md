@@ -31,7 +31,7 @@ Dr. İyad Kunaybi
 
 \*\**
 
-*Bölümün Tamamını İzlemek İçin Tıklayın:*[](https://youtu.be/QESvz4m1zqA?fbclid=IwAR1CFzqtU1EAuXcxNv8FqglH522JGerr0sTwSSK_4GPdrYYvX3rkPGwi8vE)
+**Bölümün Tamamını İzlemek İçin Tıklayın:[](https://youtu.be/QESvz4m1zqA?fbclid=IwAR1CFzqtU1EAuXcxNv8FqglH522JGerr0sTwSSK_4GPdrYYvX3rkPGwi8vE)**
 
 {% youtube https://youtu.be/QESvz4m1zqA %}
 
