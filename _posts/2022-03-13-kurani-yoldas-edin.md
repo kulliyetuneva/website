@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kur'an'ı Yoldaş Edin
+title: Kur'an'ı Yoldaş Edinin
 date: 2022-03-13T05:16:20.580Z
 author: kulliyetuneva
 categories:
