@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuma Hutbeleri Ne Zaman Dirilecek?
-date: 2022-02-10T14:08:21.744Z
+date: 2022-03-09T14:08:21.744Z
 author: kulliyetuneva
 categories:
   - Aile,Toplum ve Ahlâka Dair Muhtelif Çeviriler
