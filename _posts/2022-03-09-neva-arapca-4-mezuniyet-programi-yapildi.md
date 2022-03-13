@@ -5,7 +5,7 @@ date: 2019-01-25T21:28:02.047Z
 author: kulliyetuneva
 categories:
   - Neva Arapça
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/51007086_1924276501035421_2862607389390012416_n.jpg
