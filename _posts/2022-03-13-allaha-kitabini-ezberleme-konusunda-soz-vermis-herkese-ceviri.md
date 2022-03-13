@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Allah'a, Kitabını Ezberleme Konusunda Söz Vermiş Herkese (Çeviri)
-date: 2022-03-08T14:10:54.811Z
+date: 2022-03-10T14:10:54.811Z
 author: kulliyetuneva
 categories:
   - Kur'an ve Hâfızlık
