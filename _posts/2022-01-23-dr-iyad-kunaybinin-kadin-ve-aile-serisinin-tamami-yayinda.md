@@ -39,8 +39,7 @@ Rabbimiz, Dr.İyad'dan razı olsun, bu amelini onun için ahiret azığı eylesi
 
 **Dr.Eyad Qunaibi-Global Channel:** <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
 
-*\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:*
-https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q
+*\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:* <https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q>
 
 
 
