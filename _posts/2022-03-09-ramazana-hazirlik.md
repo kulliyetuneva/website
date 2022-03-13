@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ramazan'a Hazırlık
-date: 2022-02-17T14:12:08.179Z
+date: 2022-03-12T14:12:08.179Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
