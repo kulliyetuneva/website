@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neva Arapça Hakkında
+title: Neva Arapça Hakkında Genel Bilgiler
 date: 2021-05-01T20:08:21.446Z
 author: kulliyetuneva
 categories:
