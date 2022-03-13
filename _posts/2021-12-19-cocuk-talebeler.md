@@ -5,7 +5,7 @@ date: 2021-12-14T20:02:09.307Z
 author: kulliyetuneva
 categories:
   - el-Edeb'ül-Müfred Dersi
-featured: true
+featured: false
 sticky: false
 image: /assets/images/edeb1.jpg
 ---
