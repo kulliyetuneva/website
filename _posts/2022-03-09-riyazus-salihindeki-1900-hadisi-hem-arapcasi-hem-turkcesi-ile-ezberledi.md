@@ -16,7 +16,7 @@ El-Edebü'l Müfred hadis dersimiz akabinde takdimi yapılan bu güzel icâzetin
 \
 Belki şehrimizde bir ilk, ya da ilkler arasında olduğunu düşündüğümüz bu çalışma boyunca Şeyma Nur, iki yıla yayılan ve sahabe ile aynı havayı soluma imkânı veren bu hadis ezberinin de, Kur'an hıfzından sonra kendisine hem rûhi, hem ilmî çok şey kattığını ifade ediyor.\
 \
-İşte Nevâ'mızda dün yaşadığımız bu ikinci mutluluğa vesile olan tâlibemizi ve ona çok emek vererek dinleyen Sarya hocamızı gönülden tebrik ediyoruz. Rabbimiz bu ameli onlardan kabul etsin, kendilerini sâlih, muttaki kullarından kılsın, hadislerin tatlı atmosferini soluduklarından ahlâkları güzelleşmiş talebeler yetiştirmelerini nasib etsin, âmin...
+Nevâ'mızda yaşadığımız bu mutluluğa vesile olan tâlibemizi ve ona çok emek vererek dinleyen Sarya hocamızı gönülden tebrik ediyoruz. Rabbimiz bu ameli onlardan kabul etsin, kendilerini sâlih, muttaki kullarından kılsın, hadislerin tatlı atmosferini soluduklarından ahlâkları güzelleşmiş talebeler yetiştirmelerini nasib etsin, âmin...
 
 11 Rabîulâhir 1440
 
