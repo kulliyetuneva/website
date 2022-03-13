@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Aile,Toplum ve Ahlâka Dair Muhtelif Çeviriler
   - Dr.İyad Kunaybi
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/photo5855185884092152710.jpg
