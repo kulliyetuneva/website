@@ -5,7 +5,7 @@ date: 2022-03-05T14:57:50.436Z
 author: kulliyetuneva
 categories:
   - Muallime
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/105490196_2907730879356640_2557179821779055701_n.jpg
