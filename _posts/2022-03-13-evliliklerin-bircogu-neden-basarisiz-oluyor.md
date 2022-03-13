@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evliliklerin Birçoğu Neden Başarısız Oluyor?
-date: 2021-03-28T06:03:56.198Z
+date: 2022-03-05T06:03:56.198Z
 author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi
