@@ -5,7 +5,7 @@ date: 2022-03-13T05:16:20.580Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/80414428-91f2-4338-866b-bb23de0f249f.jpg
