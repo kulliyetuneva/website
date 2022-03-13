@@ -9,7 +9,7 @@ categories:
 featured: true
 sticky: false
 comments: true
-image: /assets/images/0b6bbd25a1577a1865d31ed565c7e172.jpg
+image: /assets/images/0f3ea05d2de0d673d28ad50ef5c7d38d.jpg
 ---
 <!--StartFragment-->
 
