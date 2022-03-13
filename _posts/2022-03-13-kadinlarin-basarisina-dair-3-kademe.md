@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kadınların Başarısına Dair 3 Kademe
-date: 2022-03-13T06:10:54.112Z
+date: 2022-03-06T06:10:54.112Z
 author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi
@@ -13,7 +13,7 @@ image: /assets/images/kadin-ve-benlik-arayisi.png
 ---
 <!--StartFragment-->
 
-14.Bölüm de yayında! Yine güncel ve zihinleri Allah'ın belirlediği kriterlere göre inşa etmenin önemine değinen harika bir bölüm:
+Yine güncel ve zihinleri Allah'ın belirlediği kriterlere göre inşa etmenin önemine değinen harika bir bölüm:
 
 \*\**
 
@@ -46,8 +46,6 @@ Aynı zamanda kadınların başarısına dair şu 3 kademenin detaylarını gör
 • Ünlü bir gazeteci, şirket müdürü, kâşif veya mucit olması şeklindeki istisnaî alanlardaki başarılar…
 
 [\#kadınserisi](https://www.facebook.com/hashtag/kad%C4%B1nserisi?__eep__=6&__cft__[0]=AZXamhHMi6fqhhqmK73xEcKH7iNDXkfLAt4idJiRWHCetdQRHlWsMwBrz88HzPJ0odCuiUgPYmSpYQ7JR6Lcpi79izRMXa716ZW4PckOQQY5vaN_3ObmV8STzBjczOBv7no&__tn__=*NK-R) [\#iyadkunaybi](https://www.facebook.com/hashtag/iyadkunaybi?__eep__=6&__cft__[0]=AZXamhHMi6fqhhqmK73xEcKH7iNDXkfLAt4idJiRWHCetdQRHlWsMwBrz88HzPJ0odCuiUgPYmSpYQ7JR6Lcpi79izRMXa716ZW4PckOQQY5vaN_3ObmV8STzBjczOBv7no&__tn__=*NK-R)
-
-
 
 **Bölümün Tamamını İzlemek için:** 
 
