@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Çeviri
   - Kur'an ve Hâfızlık
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/kur-an-ezberi-hususunda-tavsiyeler3-2-.jpg
