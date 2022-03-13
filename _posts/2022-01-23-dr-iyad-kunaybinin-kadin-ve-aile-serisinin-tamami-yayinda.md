@@ -25,15 +25,22 @@ Seri, Batılı kadının hikayesi ile başlıyor. Kadının "özgürleştirilmes
 
 > Serinin tamamında ise İslam'ın kadın olsun, erkek olsun tüm insanlara ideal olarak gösterdiği değerli ve izzetli konuma yeniden nasıl kavuşabileceklerine dair teklifler sunuluyor. Seride, kadın ve erkeklerin ortak sorumluluklarına, kadının eğitimine, evliliğine, çocuk yetiştirmesine, çalışma hayatına dair başlıklarla beraber, kadınların dövülmesi gibi tartışılan bazı konular ve erkeklerin kavvamlığının nasıl anlaşılması gerektiği gibi meselelere de tek tek değiniliyor. 
 
-Biz de halkımızın sadece Türkçe alt yazılı olarak seriye daha pratik bir şekilde ulaşıp, paylaşabilmesi için Hocanın izniyle kendi kanallarımızda da "Kadın ve Aile Serisi" adıyla yayınladık. Hem Josef İslam hem de Kulliyetu Neva Youtube kanallarından izleyebilirsiniz. Hem tanıtım videosunu hazırlayarak hem de videoları yeniden yayına hazırlayarak serinin tanınmasına katkı sağlayan @Josef İslam ekibinden kardeşlerimize de huzurunuzda teşekkür ederiz. Rabbimiz razı olacağı amellerde tüm kardeşlerimizle ortak hareket edip, hayrın yayılmasına katkı sağlamayı nasip etsin. 
+Biz de halkımızın sadece Türkçe alt yazılı olarak seriye daha pratik bir şekilde ulaşıp, paylaşabilmesi için Hocanın izniyle kendi kanallarımızda da "Kadın ve Aile Serisi" adıyla yayınladık. Kulliyetu Neva ve Josef İslam Youtube kanallarından izleyebilirsiniz. Hem tanıtım videosunu hazırlayarak hem de videoları yeniden yayına hazırlayarak serinin tanınmasına katkı sağlayan @Josef İslam ekibinden kardeşlerimize de huzurunuzda teşekkür ederiz. Rabbimiz razı olacağı amellerde tüm kardeşlerimizle ortak hareket edip, hayrın yayılmasına katkı sağlamayı nasip etsin. 
 
 {% youtube https://youtu.be/WtgfMkNtSc0 %}
 
-Sizleri bu güzel ve toplumumuzdaki pek çok soruna da işaret eden ve çözümler öneren bu seriyi muhakkak izlemeye ve farklı dil seçenekleri ile de yayınlanan bu videoları Batı'daki tanıdıklarınıza da duyurmaya davet ediyoruz. İnşaAllah faydası umulandan çok olur. Rabbimiz, Dr.İyad'dan razı olsun, bu amelini onun için ahiret azığı eylesin. 
+Sizleri bu güzel ve toplumumuzdaki pek çok soruna da işaret eden ve çözümler öneren bu seriyi muhakkak izlemeye ve duyurmaya davet ediyoruz. Umarız faydası umulandan çok olur. 
+
+Rabbimiz, Dr.İyad'dan razı olsun, bu amelini onun için ahiret azığı eylesin. 
+
+\---------------------------------------------------------------------------------
 
 *\*Dr.İyad Kunaybi'nin resmi youtube kanalına abone olarak seriyi farklı dil seçenekleri ile de takip edebilir, Batı'daki tanıdıklarınız arasında yayılmasına vesile olabilirsiniz:* 
 
 **Dr.Eyad Qunaibi-Global Channel:** <https://youtube.com/playlist?list=PLPqH38Ki1fy2MbbszGA6zlkZOYQHpNcgI>
+
+*\*İstifade edebileceğiniz başka videolar için Josef İslam kanalına da abone olmanızı tavsiye ederiz:*
+https://www.youtube.com/channel/UC7keVWSdice4tn95Mij4-1Q
 
 
 
