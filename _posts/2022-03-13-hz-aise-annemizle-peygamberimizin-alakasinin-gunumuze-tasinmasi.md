@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hz.Âişe Annemizle Peygamberimizin Alakasının Günümüze Taşınması
+title: Hz.Âişe Annemizle Peygamberimizin Evliliğinin Günümüze Taşınması
 date: 2022-03-01T10:43:54.506Z
 author: kulliyetuneva
 categories:
