@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kur'an mı ezberleyeyim, başka ilimler mi öğreneyim? (Çeviri)
+title: Kur'an mı Ezberleyeyim, Başka İlimler mi Öğreneyim? (Çeviri)
 date: 2022-03-09T14:02:41.084Z
 author: kulliyetuneva
 categories:
