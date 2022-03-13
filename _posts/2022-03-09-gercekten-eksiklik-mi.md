@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gerçekten Eksiklik mi?
-date: 2022-03-08T14:34:58.544Z
+date: 2022-03-06T14:34:58.544Z
 author: kulliyetuneva
 categories:
   - Muallime
