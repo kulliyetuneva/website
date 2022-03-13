@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kur'an Ezberi Hususunda Tavsiyeler
-date: 2022-03-09T11:58:26.939Z
+date: 2022-03-10T11:58:26.939Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
