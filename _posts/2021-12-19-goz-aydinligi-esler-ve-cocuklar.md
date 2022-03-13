@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Dr.İyad Kunaybi
   - Aile,Toplum ve Ahlâka Dair Muhtelif Çeviriler
-featured: true
+featured: false
 sticky: true
 image: /assets/images/göz-aydınlık.jpg
 ---
