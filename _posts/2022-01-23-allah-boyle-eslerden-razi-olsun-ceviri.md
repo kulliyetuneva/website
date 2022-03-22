@@ -5,8 +5,8 @@ date: 2022-01-23T11:26:45.307Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
-featured: false
-sticky: true
+featured: true
+sticky: false
 comments: true
 image: /assets/images/es.jpg
 ---
