@@ -2,7 +2,7 @@
 layout: post
 title: Ramazan'da sosyal medya kullanımını bırakmak mı, yoksa devam etmek mi
   daha iyi? (Çeviri)
-date: 2022-03-24T19:51:03.467Z
+date: 2022-03-22T19:51:03.467Z
 author: kulliyetuneva
 categories:
   - Neva Çeviri
