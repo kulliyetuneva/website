@@ -7,7 +7,7 @@ categories:
   - Muallime
   - Ramazan
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/bolum1.jpg
 ---
