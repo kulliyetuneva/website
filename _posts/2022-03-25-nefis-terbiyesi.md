@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nefis Terbiyesi
+title: Nefis Tezkiyesi
 date: 2022-03-25T16:51:44.388Z
 author: kulliyetuneva
 categories:
