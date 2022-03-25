@@ -36,9 +36,9 @@ Alim İbn’ul Kayyim nefislerin terbiye ve tezkiyesinin yalnızca sağlam bir k
 
 Durum bu kadar ciddiyken, yani seçimlerimiz bizi ebedi mutluluğa ya da ebedi bedbahtlığa sürüklerken kalplerimizi canlı tutmak için izlememiz gereken adımlara dikkat etmeli değil miyiz? Selim bir kalbe sahip olmak için çaba sarf etmeli değil miyiz? Bunun için elbette kalbin sağlığını bozan davranışları bilmek ve öğrenmek gerekir.
 
-Alim İbn’ul Kayyim’in kalp sağlığını bozan davranışları birkaç maddede açıkladığını görebiliriz: 
-
-1-İnsanlar arasına fazla karışmak, 2-Olması veya olmaması yönündeki istekler, 3-Allah’tan başkasının yardımına fazlasıyla güvenmek, 4-Doyuncaya kadar yemek. 5-Çok uyumak. 6-Fuzûlî bakmalar ve 7-Faydasız konuşmalar.⁴ 
+> Alim İbn’ul Kayyım’ın kalp sağlığını bozan davranışları birkaç maddede açıkladığını görebiliriz: 
+>
+> 1-İnsanlar arasına fazla karışmak, 2-Olması veya olmaması yönündeki istekler, 3-Allah’tan başkasının yardımına fazlasıyla güvenmek, 4-Doyuncaya kadar yemek. 5-Çok uyumak. 6-Fuzûlî bakmalar ve 7-Faydasız konuşmalar.⁴ 
 
 Nefislerin terbiye ve tezkiyesinde izlenmesi gereken ilk adım belki de sayılan bu maddelerden uzak durmaya çalışmaktır. Kalp hastalığımızı tedavi edebilmek için nefsin bir takım istek ve arzularından vazgeçmek ve şeytanın vesveselerinden Allah’a sığınmak gerekir. Peki bir mü’min Allah’ın yardımıyla bunu gerçekleştirebilmek için ne yapmalıdır? Elbette Allah’ın ipine sımsıkı sarılmalıdır.  Kitapta da belirtildiği gibi Kur’an kalplere şifadır. Şeytanın kalbe attığı vesveseleri, din dışı istek ve tutkuları yok eder. Manevi hastalıklara ilaçtır. Yani Kur’an kalbin ilacıdır. Kalbin hidayet, bilgi ve hayır kaynağıdır. Ancak Kur’an ilacının yararlı ve etkili olabilmesi için kalbin manevî sıkıntı ve hastalıklardan boşaltılması gerekir.⁵ Peki bunu başaran kimseler yani sağlam bir kalbe sahip olanların özellikleri nelerdir diye sorulacak olursa işte onlar kalbi kin ve nefretten korumak ve düşmanların kendisine güven duymasını sağlamak için kötülüğe iyilikle karşılık verenlerdir. Ve böylece Allah katında büyük saygınlık kazanırlar ve onun rızasını /hoşnutluğunu elde ederler. Ancak bu mertebeye ulaşmanın sabırla mümkün olacağını belirtiyor el-Cevziyye. Ve devamında iki yol ile düşmanı def etmek gerektiğinden bahsediyor: 1. İstiaze / sığınma duası ile (İnsan ve Cin şeytanlarından Allah’a sığınmak) ve 2. Sabır ile (cahillerden yüz çevirip kötülükleri iyilikle defetmek).⁶
 
