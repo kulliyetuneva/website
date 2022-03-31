@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Hakkımızda
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/img_20220313_175139_639.jpg
 ---
