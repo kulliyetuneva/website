@@ -1,6 +1,6 @@
 ---
 layout: post
-title: İlim Öğrenenlerin Âdabı (Adabu’l Mütaallimîn)
+title: İlim Öğrenenlerin Âdabı (Âdabu’l Mütaallimîn)
 date: 2022-03-31T10:51:28.662Z
 author: kulliyetuneva
 categories:
