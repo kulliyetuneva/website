@@ -60,6 +60,4 @@ Metnin Arapçası:
 
 <!--EndFragment-->
 
-
-
 {% youtube https://youtu.be/bjDsvEySFf0 %}
