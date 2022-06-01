@@ -6,8 +6,8 @@ author: kulliyetuneva
 categories:
   - Ramazan
   - Neva Çeviri
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/gettyimages-1308668145.webp
 ---
