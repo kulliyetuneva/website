@@ -8,8 +8,10 @@ categories:
 featured: true
 sticky: false
 comments: true
-image: https://youtu.be/bjDsvEySFf0
+image: /assets/images/ewdwsbzxsaecxoc.jpg
 ---
+{% youtube https://youtu.be/bjDsvEySFf0 %}
+
 <!--StartFragment-->
 
 YENİ ÇEVİRİ:
