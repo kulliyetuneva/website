@@ -14,7 +14,8 @@ image: /assets/images/280097045_4886672608129114_2886351744115970597_n.jpg
 
 ![📖](https://static.xx.fbcdn.net/images/emoji.php/v9/t9e/1/16/1f4d6.png)
 
-De ki: “Bilenlerle bilmeyenler hiç bir olabilir mi?" (Zümer, 9)\
+De ki: “Bilenlerle bilmeyenler hiç bir olabilir mi?" (Zümer, 9)
+
 قُلْ هَلْ يَسْتَوِي الَّذ۪ينَ يَعْلَمُونَ وَالَّذ۪ينَ لَا يَعْلَمُونَۜ 
 
 **Mübarek Ramazan ayı sonrasında derslere yeniden Bismillah** ![🌿](https://static.xx.fbcdn.net/images/emoji.php/v9/t1e/1/16/1f33f.png)
