@@ -10,8 +10,6 @@ sticky: false
 comments: true
 image: /assets/images/ewdwsbzxsaecxoc.jpg
 ---
-{% youtube https://youtu.be/bjDsvEySFf0 %}
-
 <!--StartFragment-->
 
 YENİ ÇEVİRİ:
@@ -61,3 +59,7 @@ Metnin Arapçası:
 حسين عبد الرازق
 
 <!--EndFragment-->
+
+
+
+{% youtube https://youtu.be/bjDsvEySFf0 %}
