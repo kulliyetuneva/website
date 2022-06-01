@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Çeviri
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/ewdwsbzxsaecxoc.jpg
 ---
