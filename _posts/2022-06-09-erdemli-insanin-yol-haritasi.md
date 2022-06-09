@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Erdemli İnsanın Yol Haritası
-date: 2022-06-09T20:46:04.268Z
+date: 2022-06-08T20:46:04.268Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
