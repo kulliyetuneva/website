@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yoldaki Mühendis
+title: Yoldaki Mühendis / Abdullah Galib Bergusi
 date: 2021-10-13T19:21:36.986Z
 author: kulliyetuneva
 categories:
