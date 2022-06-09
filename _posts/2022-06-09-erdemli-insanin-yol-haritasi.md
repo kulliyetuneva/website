@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erdemli İnsanın Yol Haritası
+title: Erdemli İnsanın Yol Haritası /  İbn Hazm
 date: 2022-06-08T20:46:04.268Z
 author: kulliyetuneva
 categories:
