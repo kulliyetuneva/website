@@ -90,7 +90,7 @@ Yazar, erdemli olma yolunda kişinin edindiği dostlukların ve çevrelerin de p
 
 Nitekim dost ve arkadaş edinmek; hoşgörü, yüce gönüllülük, sabır ve anlayış gösterme gibi pek çok erdemi bir araya getirmektedir. \[18]
 
-![](/assets/images/whatsapp-image-2022-05-31-at-18.20.30-1-.jpeg)
+![](/assets/images/whatsapp-image-2022-05-31-at-18.20.30.jpeg)
 
 Kitabın yanı sıra dikkate değer, etkileyici bir diğer nokta ise, yazarın kendi hayatıdır. Kitabı okuduğumuzda kendisi hakkında az da olsa bir malumat edinilmektedir. Endülüslü İbn Hazm, yirmi altı yaşından önce daha çok dil bilgisi, şiir, hitabet, mantık ve tarih gibi konularla ilgilenmişken o yaştan itibaren fıkıh, hadis ve diğer İslami ilimleri öğrenmeye başlamış ve çok kısa zamanda döneminin değerli, sayılı âlimlerinden biri haline gelmiştir.
 
@@ -106,7 +106,7 @@ Başta ve sonda hamd âlemlerin Rabbi olan Allah’a mahsustur.
 
 *\* Bu değerlendirme Neva talibelerinden **Rabia Seven** tarafından yapılmıştır.*
 
-<!--\\\[if !supportFootnotes]-->
+<!--\\\\[if !supportFootnotes]-->
 
 - - -
 
