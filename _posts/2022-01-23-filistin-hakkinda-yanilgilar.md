@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filistin Hakkında Yanılgılar
+title: Filistin Hakkında Yanılgılar / Ahmet Varol
 date: 2021-08-04T19:43:51.181Z
 author: kulliyetuneva
 categories:
