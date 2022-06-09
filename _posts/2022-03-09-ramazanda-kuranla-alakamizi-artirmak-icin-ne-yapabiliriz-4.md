@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Muallime
   - Ramazan
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/bolum4.jpg
