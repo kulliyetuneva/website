@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kudüs ve Aksâ
+title: Kudüs ve Aksâ / Bünyamin Erul
 date: 2021-07-11T19:56:09.956Z
 author: kulliyetuneva
 categories:
