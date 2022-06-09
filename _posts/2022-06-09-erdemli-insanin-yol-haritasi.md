@@ -8,7 +8,7 @@ categories:
 featured: true
 sticky: true
 comments: true
-image: /assets/images/whatsapp-image-2022-05-31-at-18.20.30.jpeg
+image: /assets/images/whatsapp-image-2022-05-31-at-18.20.30-1-.jpeg
 ---
 <!--StartFragment-->
 
