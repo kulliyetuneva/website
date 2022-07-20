@@ -70,8 +70,8 @@ Bu büyük mücadele ile ilgili olarak yeni nesil gençliğe bir takım tavsiyel
 
 ● İslam'ın Kur'an mucizesine özel ilgi göstermek.
 
-● Materyalist batıyı eleştiren kitaplar okumak.\
-\
+● Materyalist batıyı eleştiren kitaplar okumak.
+
 **4. Şüphe ve eleştiri arasında düşünme**
 
 ● Eleştirel düşünen, olayların farklı yönlerini karşılaştırma yoluyla doğru ve kesin bilgiye ulaşmak için çalışır.
