@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Arapça
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/280097045_4886672608129114_2886351744115970597_n.jpg
 ---
