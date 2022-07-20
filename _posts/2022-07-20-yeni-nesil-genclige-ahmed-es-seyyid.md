@@ -40,7 +40,9 @@ Yazar, kendisinde büyük bir endişe ve özel bir ilgi uyandıran bu mesaja, il
 
 Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal meselelerden bahsetmektedir. Kitap 10 ana başlıkta toplanmıştır. Bunlar özetle şu şekildedir:
 
-**1. Başarısızlıktan korkma!**● Bizden istenen şey makul ve olağan başarıları aşamalara ayırıp kişinin her aşama ile bir şey başarmış olacağı planlar yapmasıdır. \[2]
+**1. Başarısızlıktan korkma!**
+
+● Bizden istenen şey makul ve olağan başarıları aşamalara ayırıp kişinin her aşama ile bir şey başarmış olacağı planlar yapmasıdır. \[2]
 
 **2. Kimlik sorunu**
 
