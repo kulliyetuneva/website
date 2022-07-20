@@ -10,8 +10,6 @@ sticky: true
 comments: true
 image: /assets/images/whatsapp-image-2022-07-03-at-00.03.16.jpeg
 ---
-
-
 <!--StartFragment-->
 
 🌿
@@ -32,8 +30,8 @@ Takdim: Nureddin Yıldız
 
 Kitabın müellifi Ahmed es-Seyyid uzmanlık alanı hadis ilmi olmakla birlikte, kendisine hedef olarak gençleri belirleyen, onların bilinçlendirilmesi ve günümüz inanç problemlerinin giderilmesi için gayretler gösteren, kendisi de genç bir yazar.
 
-Kitap, kendisinin yeni nesil gençlikten olduğunu söyleyen bir okurunun yazdığı mesaj ile başlıyor:\
-\
+Kitap, kendisinin yeni nesil gençlikten olduğunu söyleyen bir okurunun yazdığı mesaj ile başlıyor:
+
 "Ben yeni nesilden birisiyim. Birçoğumuzun hayatını ve gündemini oluşturan şeyler animeler, oyunlar, filmler ve futbol gibi boş eğlenceler. Dini anlamda büyük bir zayıflık söz konusu. Bizden bazıları sadece cumadan cumaya namaz kılıyor. Beş vakit namazını kılsa bile bilgi olarak cehl-i mürekkep içerisinde, uğrunda çalıştığı hedefleri olmaksızın amaçsızca yaşıyor...
 
 Bir dönem geçiriyorum. Birisi bana bu dönemi bir kelimeyle anlat dese kayboluş kelimesini seçerdim. Dedikleri gibi milyon dolarlık soru: Kendimi nasıl tanırım? Olmak istediğim şey ne? Geleceğim hakkında görüşlerimin, hayallerimin ve ilimle olan ilişkimin netliğe kavuşması için üzerimde bulunan bu kara bulutları nasıl yok ederim? Sevdiğim ve iyi yapabildiğim şeyleri nasıl öğrenebilirim? Cevabınızı beklemekteyim." \[1]
@@ -58,20 +56,26 @@ Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal
 
 \-Salih bir arkadaş olması.
 
-\-İnsanlara faydalı olabileceği ilmin talebesi olması.\
-\
+\-İnsanlara faydalı olabileceği ilmin talebesi olması.
+
 **3. İman ve sebat mücadelesi**
 
-● Bu büyük mücadele ile ilgili olarak yeni nesil gençliğe bir takım tavsiyeleri şu şekildedir:\
-- Yakîni güçlendiren ve imanı yerinden oynamaz hale getiren kitapları okumak.\
-- Temel dini bilgileri öğrenmek.\
-- Özellikle fıkıh ve hadis usulüne önem vermek.\
-- İslam'ın Kur'an mucizesine özel ilgi göstermek.\
-- Materyalist batıyı eleştiren kitaplar okumak.\
+Bu büyük mücadele ile ilgili olarak yeni nesil gençliğe bir takım tavsiyeleri şu şekildedir:
+
+● Yakîni güçlendiren ve imanı yerinden oynamaz hale getiren kitapları okumak.
+
+● Temel dini bilgileri öğrenmek.
+
+● Özellikle fıkıh ve hadis usulüne önem vermek.
+
+● İslam'ın Kur'an mucizesine özel ilgi göstermek.
+
+● Materyalist batıyı eleştiren kitaplar okumak.\
 \
 **4. Şüphe ve eleştiri arasında düşünme**
 
-● Eleştirel düşünen, olayların farklı yönlerini karşılaştırma yoluyla doğru ve kesin bilgiye ulaşmak için çalışır.\
+● Eleştirel düşünen, olayların farklı yönlerini karşılaştırma yoluyla doğru ve kesin bilgiye ulaşmak için çalışır.
+
 ● Şüphecilik ise daha fazla çelişki ve şaşkınlıktan başka bir şeye götürmeyen beyhudelik halidir. \[3]
 
 **5. Rol model sorunu**
@@ -90,12 +94,9 @@ Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal
 
 ● Allah'a davet
 
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
-
 **7. Bilgi karışıklığı ve ilmin yöntemi**
 
-● Okumayı düzene sokacak kurallar ve bilginin inşasında genel başlıklar şu şekildedir:
+Okumayı düzene sokacak kurallar ve bilginin inşasında genel başlıklar şu şekildedir:
 
 \- Kitapları ve dersleri aşamalara ayırmak.
 
@@ -105,16 +106,16 @@ Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal
 
 \- Önemli ve merkezi kitapları özetlemek.
 
-\- Unutmanın ilacı tekrar etmektir.\
-\
+\- Unutmanın ilacı tekrar etmektir.
+
 **8. Yeni neslin modern tarihi bilmesinin önemi**
 
 ●Eski âlimler tarih hakkında "Tarih okumayan, içinde yaşadığı vakıayı anlayamaz." diyorlardı. \[5]
 
 ●Modern tarihi okumak daha önceki tarihi okumaktan çok daha önemlidir. \[5]
 
-Yazar bu bölümde geçmiş iki asır hakkında genel bir bilgi haritası oluşturmuştur.\
-\
+Yazar bu bölümde geçmiş iki asır hakkında genel bir bilgi haritası oluşturmuştur.
+
 **9. Şehvet, sevgi ve evlilik mücadelesi**
 
 ●Müellif bu konuyu 3 aşamada ele almıştır:
@@ -145,12 +146,7 @@ Yazar son sözlerini şu nasihatleri vererek tamamlamaktadır:
 
 "Hiçbiriniz kendini küçük görmesin. Ümmetin sorumluluğunu başkasına bırakmasın. Hemen bugün kendinize önem göstererek işe başlayın. Günler geçiyor. Yarınlar yakın. Ömür kısa ve ümmet sizi bekliyor." \[6]
 
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
-
-*\* Bu değerlendirme Neva talibelerinden **Demet Nilufer** tarafından yapılmıştır.*\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+*\* Bu değerlendirme Neva talibelerinden **Demet Nilufer** tarafından yapılmıştır.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 \[1] Ön söz, syf 15.
