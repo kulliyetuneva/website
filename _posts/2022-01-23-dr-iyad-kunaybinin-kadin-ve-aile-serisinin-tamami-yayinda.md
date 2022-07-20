@@ -7,7 +7,7 @@ categories:
   - Kadın ve Aile Serisi
   - Dr.İyad Kunaybi
 featured: false
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/131155277_3879462268779616_3831901588475147521_n.jpg
 ---
