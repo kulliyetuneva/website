@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yeni Nesil Gençliğe / Ahmed es-Seyyid
-date: 2022-07-23T20:50:58.489Z
+date: 2022-07-22T20:50:58.489Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
