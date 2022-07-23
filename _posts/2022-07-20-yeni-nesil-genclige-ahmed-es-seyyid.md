@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yeni Nesil Gençliğe / Ahmed es-Seyyid
-date: 2022-07-20T20:50:58.489Z
+date: 2022-07-23T20:50:58.489Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
@@ -120,13 +120,21 @@ Yazar bu bölümde geçmiş iki asır hakkında genel bir bilgi haritası oluşt
 
 **9. Şehvet, sevgi ve evlilik mücadelesi**
 
-●Müellif bu konuyu 3 aşamada ele almıştır:
+● Müellif bu konuyu 3 aşamada ele almıştır:
 
 \- Evlilikten önceki aşama (Şehvet ve flört tehdidi)
 
 \- Evlilik yolundaki aşama (Eş seçimi ve evlilik adımları)
 
 \- Evlilikten sonraki aşama (İyi bir şekilde geçinme ve sorumluluk bilinci)
+
+● Aynı zamanda bu bölümde bir çok soruya kısa ve öz cevaplar vermiştir. Bu sorulardan bazıları:
+
+\- Bekarken şehvet tehdidiyle doğru bir şekilde nasıl başa çıkarım?
+
+\- Eş seçiminde gözetilecek hususlar nelerdir?
+
+\- Eş seçiminde karşı tarafa yöneltilecek sorular nelerdir?
 
 **10. Hidâyet ve istikamet**
 
@@ -148,7 +156,7 @@ Yazar son sözlerini şu nasihatleri vererek tamamlamaktadır:
 
 "Hiçbiriniz kendini küçük görmesin. Ümmetin sorumluluğunu başkasına bırakmasın. Hemen bugün kendinize önem göstererek işe başlayın. Günler geçiyor. Yarınlar yakın. Ömür kısa ve ümmet sizi bekliyor." \[6]
 
-*\* Bu değerlendirme Neva talibelerinden **Demet Nilufer** tarafından yapılmıştır.*
+*\* Bu değerlendirme Neva talibelerinden **Demet Nilüfer** tarafından yapılmıştır.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 \[1] Ön söz, syf 15.
