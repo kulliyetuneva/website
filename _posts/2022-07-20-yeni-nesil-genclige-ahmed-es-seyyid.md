@@ -38,7 +38,7 @@ Bir dönem geçiriyorum. Birisi bana bu dönemi bir kelimeyle anlat dese kaybolu
 
 Yazar, kendisinde büyük bir endişe ve özel bir ilgi uyandıran bu mesaja, ilim talebelerine nasihat ve yol gösterici bir harita niteliğindeki, kısa ve öz şekilde hazırlamış olduğu "Yeni Nesil Gençliğe" kitabı ile cevap vermektedir.
 
-Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal meselelerden bahsetmektedir. Kitap 10 ana başlıkta toplanmıştır. Bunlar özetle şu şekildedir:
+Kitapta gençlerin ihtiyaç duyduğu inanç, eğitim, davranış ve bazı sosyal meselelere değinilmektedir. Kitap 10 ana başlıkta toplanmıştır. Bunlar özetle şu şekildedir:
 
 **1. Başarısızlıktan korkma!**
 
