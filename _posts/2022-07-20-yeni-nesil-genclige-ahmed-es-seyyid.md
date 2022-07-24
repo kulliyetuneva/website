@@ -174,3 +174,19 @@ Yazar son sözlerini şu nasihatleri vererek tamamlamaktadır:
 <!--EndFragment-->
 
 ![](/assets/images/whatsapp-image-2022-07-03-at-00.03.16-1-.jpeg)
+
+**Ahmed es-Seyyid Kimdir?**
+
+1985 yılında Suudi Arabistan'ın Yanbu şehrinde dünyaya gelen Ahmed es-Seyyid, daha küçük yaştan itibaren babasının gözetiminde şer'i ilimler tahsiline başlayarak evvela Kur'an hıfzını, sonra da İmam Nevevi'nin kırk hadisini ve bazı nahiv metinlerini ezberledi. Orta öğretimde tefsir ve fıkıh dersleri aldıktan sonra lise döneminde Mekke'deki "Sünnetin Muhafazası" kurslarına katıldı, orada Buhari ve Müslim başta olmak üzere sekiz kitaplık hadis külliyatını ve tefsir ile fıkıh alanında meşhur bazı eserleri de ezberledi. Ardından şeriat fakültesine başladı. Üniversite eğitimi esnasında içlerinde Süleyman el-Ulvan da olmak üzere pek çok tanınmış şeyhten dersler ve icazetler aldı.
+
+Ahmed es-Seyyid, asıl alanı olan hadis ilmine ayrı bir önem göstermekle birlikte akide, usul ve fıkıh dersleri de verdi. Verdiği dersler hem youtube kanalında hem de çeşitli platformlarda yayınlanmış, halen de yeni dersleri devam etmektedir.
+
+Bilhassa günümüz inanç problemleri üzerine kafa yoran, gençlere yönelik birçok ilmî programın kurucusu da olan müellifin çeşitli zaman dilimlerine yayılmış uzaktan eğitim programlarına dünyanın pek çok yerinden öğrenciler rağbet etmeye devam ediyor.  İyad Kunaybi ve Hüseyin Abdurrazık hocaların "arkadaşımız, dostumuz" diyerek çalışmalarını takdir ettikleri, Nureddin Yıldız hocanın kitabına takdim yazdığı Ahmed es-Seyyid'in gençleri ilmî ve fikrî yönden besleyen ve dinleriyle izzetli olmaya teşvik eden dersleri oldukça etkili.
+
+Kendisi İstanbul'da yaşayan Ahmed es-Seyyid'in Türkçe'ye çevrilmiş videoları "Beyyine org" Youtube kanalında yayınlanıyor. Bilhassa sünnetin hüccet oluşuna dair ders serisi de istifade edilmeye değer.
+
+{% youtube https://www.youtube.com/watch?v=fmgJ3iQ4GDM&list=PL5v7lZXblXA-Q2Yhk4aUU5IVNLLuL0S40 %}
+
+Basılmış pek çok kitabı da olan davetçinin Türkçe'ye kazandırılan kitaplarından bazıları ise şunlar: *"Yeni Nesil Gençliğe, Çağdaş Şüphelerle Mücadele Rehberi, Geniş Perspektif, Eleştirel Düşünce."*
+
+\| Kulliyetu Neva
