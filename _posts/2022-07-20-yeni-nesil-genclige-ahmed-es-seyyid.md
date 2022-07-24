@@ -185,8 +185,8 @@ Bilhassa günümüz inanç problemleri üzerine kafa yoran, gençlere yönelik b
 
 Kendisi İstanbul'da yaşayan Ahmed es-Seyyid'in Türkçe'ye çevrilmiş videoları "Beyyine org" Youtube kanalında yayınlanıyor. Bilhassa sünnetin hüccet oluşuna dair ders serisi de istifade edilmeye değer.
 
-{% youtube https://youtu.be/fmgJ3iQ4GDM %}
-
 Basılmış pek çok kitabı da olan davetçinin Türkçe'ye kazandırılan kitaplarından bazıları ise şunlar: *"Yeni Nesil Gençliğe, Çağdaş Şüphelerle Mücadele Rehberi, Geniş Perspektif, Eleştirel Düşünce."*
 
 \| Kulliyetu Neva
+
+{% youtube https://youtu.be/fmgJ3iQ4GDM %}
