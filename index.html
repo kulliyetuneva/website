@@ -115,7 +115,22 @@ description: ""
     <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
 
     <div class="row mt-3">
-        <div class="col-md-8 main-loop">
+        <div>
+        <div class="col-md-4 float-right bottom-space">
+            {% include sidebar-featured.html %}
+        </div>
+
+        {% for front_category in site.data.front_categories.items %}
+        <div class="col-md-8">
+            <h4 class="font-weight-bold spanborder"><span><a href="{{ front_category.category | make_category_url }}">{{ front_category.category }}</a></span></h4>
+            {% assign filtered_posts = site.categories[front_category.category] %}
+            {% for post in filtered_posts limit:5 %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+
+        <div class="col-md-8">
             <h4 class="font-weight-bold spanborder"><span>Tüm Gönderiler</span></h4>
 
             {% for post in paginator.posts %}
@@ -158,12 +173,9 @@ description: ""
                 </ul>
                 {% endif %}
             </div>
-
         </div>
+    </div>
 
-        <div class="col-md-4">
-            {% include sidebar-featured.html %}
-        </div>
     </div>
 
 </div>

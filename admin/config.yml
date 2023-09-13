@@ -75,3 +75,15 @@ collections:
                     {label: Link, name: link, widget: string}
                   ]
                 }
+      - label: "Anasayfa Kategorileri"
+        name: "front_categories"
+        file: "_data/front_categories.yml"
+        fields:
+          - label: "Gösterilecek Kategori"
+            name: "items"
+            widget: "list"
+            fields:
+              - {
+                  label: "Kategori", name: "category", widget: "relation",
+                  collection: "category", value_field: "title", search_fields: ["title"], display_fields: ["title"],
+                }

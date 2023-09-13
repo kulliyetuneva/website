@@ -97,17 +97,7 @@
 
     <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
-    <script src="{{site.baseurl}}/assets/js/visitor_counter.js"></script>
-
     <script src="{{site.baseurl}}/assets/js/BetterTube.js"></script>
-
-    <script>
-        $(document).ready(function () {
-            const namespace = "{{site.host}}" === "127.0.0.1" ? "kulliyetuneva.dev" : "{{site.host}}";
-            const path = "{{page.path}}";
-            runCounter({ namespace, path });
-        });
-    </script>
 
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
@@ -116,7 +106,7 @@
                 <div>
                     <span class="navbar-brand mr-2 mb-0"><strong>{{site.name}}</strong></span>
                     <span>
-                        <script>document.write(new Date().getFullYear())</script>
+                        2010-<script>document.write(new Date().getFullYear())</script>
                     </span>
                 </div>
             </div>

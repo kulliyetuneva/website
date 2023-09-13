@@ -26,9 +26,15 @@ img {
 	margin-left:-50vw;
 	left:50%;
 }
+.float-right {
+	float: right;
+}
 a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
+}
+.bottom-space {
+	margin-bottom: 40px;
 }
 a {
 	color:#03a87c;
@@ -803,4 +809,3 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 

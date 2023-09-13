@@ -1,8 +1,8 @@
 <div class="sticky-top sticky-top-offset">
     <h4 class="font-weight-bold spanborder"><span>Öne Çıkanlar</span></h4>
     <ol class="list-featured">
-        {% for post in site.posts %}
-        {% if post.featured %}
+        {% assign featured_posts = site.posts | where: "featured", "true" %}
+        {% for post in featured_posts limit:10 %}
         <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
@@ -20,7 +20,6 @@
                 </span>
             </span>
         </li>
-        {% endif %}
         {% endfor %}
     </ol>
 
@@ -37,16 +36,6 @@
         <a class="btn btn btn-outline-light btn-md btn-round ml-2" target="_blank" style="background-color: #ac2bac;" href="{{ site.authors['kulliyetuneva'].instagram }}" role="button">
             <i class="fab fa-instagram"></i>
         </a>
-    </div>
-
-    <h4 class="font-weight-bold spanborder"></h4>
-
-    <h4 class="font-weight-bold spanborder"><span>Ziyaretçilerimiz</span></h4>
-    <div class="mb-2">
-        <span class="views">
-            Tekil: <span id="unique-counter"></span> <br />
-            Toplam: <span id="total-counter"></span>
-        </span>
     </div>
 
 </div>
