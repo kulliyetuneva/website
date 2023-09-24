@@ -5,7 +5,6 @@ date: 2023-09-17T15:19:59.378Z
 author: kulliyetuneva
 categories:
   - Neva Arapça
-  - Hakkımızda
 featured: true
 sticky: false
 comments: true
