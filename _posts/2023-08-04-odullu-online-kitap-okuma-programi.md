@@ -5,8 +5,8 @@ date: 2023-08-04T05:33:45.258Z
 author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/pusula-programi.jpg
 ---
