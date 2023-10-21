@@ -5,6 +5,7 @@ date: 2023-10-19T19:22:55.728Z
 author: kulliyetuneva
 categories:
   - Muallime
+  - Gündeme Dair
 featured: false
 sticky: false
 comments: true
