@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Pusula Online Okuma Programı
 featured: false
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/photo1694464437.jpeg
 ---
