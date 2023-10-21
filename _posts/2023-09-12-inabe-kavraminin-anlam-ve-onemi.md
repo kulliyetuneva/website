@@ -7,8 +7,8 @@ categories:
   - Muallime
   - Pusula Online Okuma Programı
   - Ahmed es-Seyyid
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/375748861_6342371522559208_7531489911622442528_n.jpg
 ---
