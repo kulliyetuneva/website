@@ -1,6 +1,6 @@
 ---
 title: İzzetli Gazze
-date: 2023-10-21T19:08:50.356Z
+date: 2023-10-15T19:08:50.356Z
 author: kulliyetuneva
 categories:
   - Gündeme Dair
