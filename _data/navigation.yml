@@ -15,10 +15,10 @@ items:
         link: /category/el-edebul-mufred-dersi
       - name: el-İ'tisâm Dersi
         link: /category/el-itisam-dersi
-      - name: Müslümanların Tarihi
-        link: /category/muslumanlarin-tarihi
       - name: Siyer-i Nebi
         link: /category/siyer-i-nebi
+      - name: Rıhletu'l-İman
+        link: /category/rihletul-iman
   - name: Çeviri
     subitems:
       - name: Genel
