@@ -10,15 +10,11 @@ sticky: false
 comments: true
 image: /assets/images/photo1703622943.jpeg
 ---
-
+**\***﻿
 
 **اِنَّ هٰذِه۪ٓ اُمَّتُكُمْ اُمَّةً وَاحِدَةًۘ وَاَنَا۬ رَبُّكُمْ فَاعْبُدُونِ**
 
- 
-
 *Allah teâlâ Kitabında şöyle buyurmuştur: “**Muhakkak, işte bu sizin ümmetiniz, tek bir ümmettir.  Ben de sizin Rabbinizim; o halde** (ancak ve yalnız) **bana kulluk edin.”** (Enbiya, 92)*
-
-
 
 Ümmetçe zor zamanlardan geçtiğimiz bu günlerde, bu ayet-i kerime bizlere Allah’a kulluk ile ümmet şuurunun ayrılmaz bir bütün olduğunu yeniden hatırlatıyor. Bugün Gazze, Sudan, Suriye, Doğu Türkistan; dün Bosna, Çeçenistan, Afganistan, Irak ve daha nice zulme uğramış belde; imanımızı ispat için sınanacağımızı, Allah’ın sünnetinin değişmeyeceğini ve Allah’ın her dönem kulları içinden şahitler ve şehitler çıkaracağını gösteriyor. Bu minvalde Allah’ın dinine yardım için seçtiği kimselerden olmak, şüphe ve şehvetleri def etmek, insanlığa model bir ümmet olmak için Müslümanlar olarak faydalı ilim ve salih amele sarılmamız ve her türden cihadı hayatlarımızın ayrılmaz bir parçası hâline getirmemiz gerekiyor.
 
@@ -35,8 +31,6 @@ Bu gün buradaki buluşmamız da sınırları ve zamanları aşan, peygamberleri
 Bize düşen bu sağlam kulpa tutunmak, şeytan ve avanelerinin bölme, parçalama ve küçülterek yok etme siyasetlerine kanmamak ve peygamberimizin iman, ahlak ve davetteki yoluna uyarak, ferasetle hareket etmektir.  Bizler ancak bu şekilde fert ve ümmet olarak bizi üzen, çaresiz hle getiren ve elimizi kolumuzu bağlayan fikri ve askeri savaşlara karşı galibiyet kazabiliriz. Hiç şüphesiz asıl galip olan Allah’tır, Allah’ın taraftarları da hep galip gelmiştir ve galip gelecektir.
 
 *Kulliyetu Neva* da Allah’ın davasının galip gelmesinde kendince bir nefer olmak için 2010’dan bu yana Arapça ve İslami İlimler üzerine dersler vererek, bilinç inşa eden okuma grupları oluşturarak, Kur’an’ı kalbinde taşıyan hafızlar yetiştirmeye gayret ederek ardında hayırlı bir nesil bırakma kaygısı ile çalışmalarına devam etmektedir. Hem kitap hem de Ahmet Yasin’in ifadesiyle asıl olarak nesil telif etmeye çalışmaktadır.
-
-
 
 **2﻿7 Aralık 2023**
 
