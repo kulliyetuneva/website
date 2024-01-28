@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Arapça
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/neva-2024-kis-do-nemi-02.jpg
 ---
