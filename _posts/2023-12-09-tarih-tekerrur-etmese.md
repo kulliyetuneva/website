@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Muallime
 featured: false
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/photo1701961668.jpeg
 ---
