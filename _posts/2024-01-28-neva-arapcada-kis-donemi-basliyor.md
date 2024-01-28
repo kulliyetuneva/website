@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neva Arapça'da Kış Dönemi Başlıyor! "
+title: Neva Arapça 2024 Kış Dönemi Kayıtlarımız Başladı!
 date: 2024-01-28T14:15:15.990Z
 author: kulliyetuneva
 categories:
