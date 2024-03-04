@@ -4,7 +4,6 @@ description: ''
 logo: 'assets/images/kulliyetu-nevâ-logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'kulliyetuneva'
 email: ''
 
 include: ["_pages"]
