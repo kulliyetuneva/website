@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ramazan'ın Son On Günü ve Kadir Gecesi
+title: Ramazan'ın Son On Günü ve Kadir Gecesi / Ahmed es-Seyyid
 date: 2024-03-31T20:16:40.564Z
 author: kulliyetuneva
 categories:
