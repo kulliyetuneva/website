@@ -8,7 +8,7 @@ categories:
 featured: true
 sticky: false
 comments: true
-image: /assets/images/0f3ea05d2de0d673d28ad50ef5c7d38d.jpg
+image: /assets/images/elaosboa09742-1.jpg
 ---
 *Ahmed es-Seyyid Hoca'nın Ramazan'ın son on günü ve Kadir Gecesi'ne dair dün yayınladığı 14 dk'lık ses kaydının özetini istifadeye sunmak istedik:*
 
