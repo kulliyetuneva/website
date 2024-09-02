@@ -5,8 +5,8 @@ date: 2024-01-28T14:15:15.990Z
 author: kulliyetuneva
 categories:
   - Neva Arapça
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/neva-2024-kis-do-nemi-02.jpg
 ---
