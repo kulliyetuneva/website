@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kudüs'ün Kalesi Gazze (Konferansa Davet)
-date: 2024-09-02T19:39:26.896Z
+date: 2024-07-19T19:39:26.896Z
 author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
