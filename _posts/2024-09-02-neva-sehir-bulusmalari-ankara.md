@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/whatsapp-image-2024-08-12-at-10.01.36.jpeg
 ---
