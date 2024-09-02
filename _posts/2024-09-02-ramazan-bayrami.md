@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ramazan Bayramı
+title: Ramazan Bayramı Sevinci
 date: 2024-04-10T20:05:03.456Z
 author: kulliyetuneva
 categories:
