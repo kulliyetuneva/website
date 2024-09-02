@@ -5,7 +5,7 @@ date: 2024-03-31T20:16:40.564Z
 author: kulliyetuneva
 categories:
   - Ahmed es-Seyyid
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/elaosboa09742-1.jpg
