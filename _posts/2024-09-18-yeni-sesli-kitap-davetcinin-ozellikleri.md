@@ -22,4 +22,4 @@ Rabbimiz, hepimize toplumu ıslaha girişmeden önce nefsimizi ıslah etme husus
 
 ![📍](https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png)Listenin tamamı Kulliyetu Neva youtube kanalımızda:
 
-<https://youtu.be/VqSgvCA9FXc?si=JQw4LARDRoIFjuZh>
+<https://youtube.com/playlist?list=PLB0wchdvkLi3Mkd6U1CH6GREjAa4Abg4A&si=kQ9-sn8yL2ww2G0g>
