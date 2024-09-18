@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yeni Sesli Kitap (Davetçinin Özellikleri)
+title: Yeni Sesli Kitap (Davetçilerin Özellikleri)
 date: 2024-09-08T19:31:26.157Z
 author: kulliyetuneva
 categories:
