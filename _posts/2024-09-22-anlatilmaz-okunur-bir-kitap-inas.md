@@ -22,6 +22,4 @@ Bu gibi çok anlamlar yüklü olan kitabımız aslında başlarda bahsettiğimiz
 
 Tabii bu güzel projeye yüreğini koyarak işini yapan sadece İyad hocamız değil. Çevirisinden tutun son okumasına, mizanpajından tutun kapak tasarımına kadar ne kadar özenli bir işin ortaya konulduğuna şahitlik edebiliyorsunuz. Bu, yazılan esere verilen bir değer olduğu kadar aynı zamanda okuyucuya da verilen bir kıymettir. Bu noktada emeği geçen bütün herkesten Yüce Rabbimizin razı olmasını diliyorum. Bilhassa da özverili tercümelerinden ötürü kıymetli hocalarıma hem kendi adıma hem de ümmet-i Muhammed’in gençleri adına teşekkürü borç bilirim. Çünkü bizler susamıştık, onlar ise bizlere bir pınar açtılar. Allah onları korusun ve ilimlerinden nice vesilelerle faydalanabilmeyi bizlere nasip eylesin.
 
-
-
  Yazan-Değerlendiren: **Huri Özel (**Kulliyetu Neva Talibelerinden)
