@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/457665837_7904299079699770_5690276271763025449_n.jpg
 ---
