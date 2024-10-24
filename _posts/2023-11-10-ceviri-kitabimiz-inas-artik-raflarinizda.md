@@ -7,7 +7,7 @@ categories:
   - Neva Çeviri
   - Hakkımızda
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/395311743_6536067463189612_7751091576232182593_n.jpg
 ---
