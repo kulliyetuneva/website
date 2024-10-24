@@ -7,7 +7,7 @@ categories:
   - Faaliyetlerimiz
   - Prof. Dr. İyad Kunaybi
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/430102802_7013836275412726_476383033535176696_n.jpg
 ---
