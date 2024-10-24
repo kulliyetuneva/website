@@ -5,8 +5,8 @@ date: 2024-08-12T19:45:14.349Z
 author: kulliyetuneva
 categories:
   - Faaliyetlerimiz
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/whatsapp-image-2024-08-12-at-10.01.36.jpeg
 ---
