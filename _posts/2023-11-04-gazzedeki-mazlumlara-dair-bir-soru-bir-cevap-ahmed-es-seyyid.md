@@ -5,7 +5,7 @@ date: 2023-11-04T18:18:43.081Z
 author: kulliyetuneva
 categories:
   - Ahmed es-Seyyid
-featured: true
+featured: false
 sticky: false
 comments: true
 image: /assets/images/photo1699121793.jpeg
