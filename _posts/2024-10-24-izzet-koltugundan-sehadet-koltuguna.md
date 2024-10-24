@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Prof. Dr. İyad Kunaybi
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/5809797228053776623.jpg
 ---
