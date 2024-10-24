@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Ahmed es-Seyyid
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/photo1699121793.jpeg
 ---
