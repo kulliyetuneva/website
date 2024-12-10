@@ -43,8 +43,7 @@ Dün yazılı paylaşımlar yaptım, bir kardeşimiz Suriye'den şöyle yorumlad
 
 Bu kardeşimiz ve Şam’daki diğer kardeşlerimiz için gülerek bir video çekip size hayır dualarımı ve tebriklerimi ileteceğim.
 
-Belki şöyle diyebilirsiniz:\
-*"Ama korkuyorum ki günler öyle olaylar getirir ki bu sevinci unuturuz ve insanların içinde bir kırılma yaşanır."*
+Belki şöyle diyebilirsiniz: *"Ama korkuyorum ki günler öyle olaylar getirir ki bu sevinci unuturuz ve insanların içinde bir kırılma yaşanır."*
 
 Evet, ne olursa olsun, olanlar bu zaferin coşkusunu ve Allah’ın rahmetinin inişine dair sevincinizi unutturmasın.
 
