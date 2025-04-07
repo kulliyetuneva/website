@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"Allah'a Hüsnüzan Beslemek\" Çıktı!"
-date: 2025-03-17T18:13:20.470Z
+date: 2025-04-07T18:13:20.470Z
 author: kulliyetuneva
 categories:
   - Prof. Dr. İyad Kunaybi
