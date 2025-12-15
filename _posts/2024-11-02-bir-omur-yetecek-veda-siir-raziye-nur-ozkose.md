@@ -5,8 +5,8 @@ date: 2024-11-02T17:19:49.602Z
 author: kulliyetuneva
 categories:
   - Öncü Şahsiyetler
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/whatsapp-image-2024-11-02-at-12.08.27.jpeg
 ---
