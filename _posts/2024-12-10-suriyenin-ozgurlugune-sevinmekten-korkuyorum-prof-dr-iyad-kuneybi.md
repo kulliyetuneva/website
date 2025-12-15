@@ -5,8 +5,8 @@ date: 2024-12-10T18:18:22.603Z
 author: kulliyetuneva
 categories:
   - Prof. Dr. İyad Kunaybi
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/5965033551042823149.jpg
 ---
