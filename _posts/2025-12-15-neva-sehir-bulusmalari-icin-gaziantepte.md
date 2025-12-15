@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neva Şehir Buluşmaları İçin Gaziantep'te!
+title: Neva, Şehir Buluşmaları İçin Gaziantep'te!
 date: 2025-11-22T11:38:58.246Z
 author: kulliyetuneva
 categories:
