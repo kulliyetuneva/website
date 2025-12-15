@@ -5,8 +5,8 @@ date: 2024-09-22T20:35:40.678Z
 author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
-featured: true
-sticky: true
+featured: false
+sticky: false
 comments: true
 image: /assets/images/whatsapp-image-2024-09-22-at-23.35.10.jpeg
 ---
