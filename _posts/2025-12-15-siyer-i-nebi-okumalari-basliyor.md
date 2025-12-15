@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siyer-i Nebi Okumaları Başlıyor!
-date: 2025-11-22T12:08:37.868Z
+date: 2025-10-22T12:08:37.868Z
 author: kulliyetuneva
 categories:
   - Siyer-i Nebi
