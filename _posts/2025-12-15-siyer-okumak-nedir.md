@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siyer Okumak Nedir?
-date: 2025-12-15T12:04:25.406Z
+date: 2025-11-01T12:04:25.406Z
 author: kulliyetuneva
 categories:
   - Siyer-i Nebi
