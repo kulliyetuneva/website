@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Neva Kitap Tahlili
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/20240915_153112.jpg
 ---
