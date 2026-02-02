@@ -26,6 +26,6 @@ Müslüman kadınlar kıymetlerini vahiyde, kendi köklerinde, tarihlerinde aram
 
 Kulliyetu Neva
 
-
-
 ![](/assets/images/elvefa.jpg)
+
+![](/assets/images/elvefa4.jpg)
