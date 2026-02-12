@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Allah'a, Kitabını Ezberleme Konusunda Söz Vermiş Herkese (Çeviri)
+title: Allah'a, Kitabını Ezberleme Konusunda Söz Vermiş Herkese
 date: 2026-02-02T14:10:54.811Z
 author: kulliyetuneva
 categories:
@@ -9,7 +9,7 @@ categories:
 featured: true
 sticky: false
 comments: true
-image: /assets/images/kuran2.jpg
+image: /assets/images/2026-02-12-19.36.48.jpg
 ---
 <!--StartFragment-->
 
