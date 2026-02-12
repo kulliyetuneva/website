@@ -13,13 +13,13 @@ image: /assets/images/2026-02-12-19.36.48.jpg
 ---
 <!--StartFragment-->
 
-![🌹](https://static.xx.fbcdn.net/images/emoji.php/v9/t71/1/16/1f339.png) **Allah'a Kitabını Ezberleme Konusunda Söz Vermiş Herkese**
+**Allah'a Kitabını Ezberleme Konusunda Söz Vermiş Herkese**
 
 Niyetini tazele, Allah'a (cc) tevekkül et, bu yolda sebat et.
 
 Kur'an ile olan yolculuğun seni zayıf iradeli biri iken zirvelere taşır.
 
-![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Nefsin sana ezber yapmak çok zor derse o**na: *"Andolsun ki biz Kur'an'ı öğüt alınsın diye kolaylaştırdık, öğüt alan yok mu ?"*** (Kamer, 17) de.
+![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Nefsin sana ezber yapmak çok zor derse ona:** *"Andolsun ki biz Kur'an'ı öğüt alınsın diye kolaylaştırdık, öğüt alan yok mu ?"*** (Kamer, 17) de.
 
 ![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Hiç vaktinin olmadığını söylerse ona: ***"Ey iman edenler! Ne mallarınız, ne de evlatlarınız sizleri Allah'ın zikrinden alıkoymasın. Her kim bunu yaparsa işte onlar hüsrana uğrayanların ta kendileridir."*** (Münafikun, 9) de.
 
@@ -31,7 +31,7 @@ Kur'an ile olan yolculuğun seni zayıf iradeli biri iken zirvelere taşır.
 
 ![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Ezberlediklerini ileride unutacaksın dediğinde **"*Sabret çünkü Allah iyi davrananların mükafatını zayi etmez."*** (Hud, 115) de.
 
-![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Ezberlemen ve tekrar etmen artık yeterli dediğinde; ***"Bizim uğrumuzda çabalayanlara gelince elbette onları yollarımıza eriştireceğiz. Kuşkusuz Allah iyi davrananlarla beraberdir."*** (Ankebut, 69) de.
+![✨](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png) Ezberlemen ve tekrar etmen artık yeterli dediğinde, ***"Bizim uğrumuzda çabalayanlara gelince elbette onları yollarımıza eriştireceğiz. Kuşkusuz Allah iyi davrananlarla beraberdir."*** (Ankebut, 69) de.
 
 ![📍](https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png) Kur'an ezberlemenin zor olduğunu düşünüyorsan, cennete giden yolun kolay olduğunu zannetme. O cennet ki en yüce mertebeleri Kur'an hafızları içindir.
 
@@ -40,8 +40,6 @@ Kur'an ile olan yolculuğun seni zayıf iradeli biri iken zirvelere taşır.
 ***"O halde yarışanlar bunun için yarışsınlar."*** (Mutaffifin, 26)
 
 Kur'an'ı hayatın, hayatını Kur'an kıl! ![🌹](https://static.xx.fbcdn.net/images/emoji.php/v9/t71/1/16/1f339.png)
-
-
 
 \| Bu yazı Kulliyetu Neva talibelerinden Fatma Zehra Yaman tarafından çevrilmiştir. 
 
