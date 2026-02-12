@@ -10,7 +10,9 @@ sticky: true
 comments: true
 image: /assets/images/2026-02-12-19.36.33.jpg
 ---
-**O BİR MÜCEVHERDİR** 💎
+💎
+
+**O BİR MÜCEVHERDİR** 
 
 İlmî programlara katılan, dinini sahih kaynaklardan öğrenmek, evlatlarına ve çevresindeki hanımlara ışık olmak niyetiyle internetteki mevcut eğitim imkânlarını kullanan,
 
