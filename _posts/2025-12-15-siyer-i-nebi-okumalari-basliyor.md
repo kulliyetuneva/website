@@ -6,7 +6,7 @@ author: kulliyetuneva
 categories:
   - Siyer-i Nebi
 featured: true
-sticky: true
+sticky: false
 comments: true
 image: /assets/images/569089901_18156527101396863_7638797329307012682_n.jpeg
 ---
