@@ -7,7 +7,7 @@ categories:
   - Kur'an ve Hâfızlık
   - Neva Çeviri
 featured: true
-sticky: false
+sticky: true
 comments: true
 image: /assets/images/2026-02-12-19.36.48.jpg
 ---
