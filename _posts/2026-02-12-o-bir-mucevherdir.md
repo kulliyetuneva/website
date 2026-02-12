@@ -18,7 +18,7 @@ image: /assets/images/2026-02-12-19.36.33.jpg
 
 * Şer’î ölçülere riayet ederek iffetini koruyan,
 * Soru sorarken ve iletişim kurarken İslam’ın nezaket ve edebiyle kuşanan,
-* Eşinin ve çocuklarının haklarını asla ihmal etmeyip boş vaktini dinin inceliklerini öğrenmeye vakfeden o kadın...Vallahi o, **nadide bir mücevher ve saf bir madendir.** 💎
+* Eşinin ve çocuklarının haklarını asla ihmal etmeyip boş vaktini dinin inceliklerini öğrenmeye vakfeden o kadın...Vallahi o, **nadide bir mücevher ve has bir madendir.** 💎
 
 Böyle bir kadının eşine, kardeşine, babasına ve tüm yakınlarına düşen; onu takdir etmek, şevkini artırmak ve yaptığı işin kıymetini bilmektir. Hatta elinden geliyorsa, bu yolda devam edebilmesi için ona huzurlu bir ortam hazırlayıp ilmine ortak olmaktır. Zira böyle bir gayretin bereketi, tüm ev halkına sirayet eder; o ev hayra yönelir ve şerlerden muhafaza olur. Böyle bir ev, salihlerin velisi olan Allah'ın himayesine mazhar olmaya layık bir evdir. 
 
@@ -42,7 +42,7 @@ Hanım kardeşim, Allah gayretini kabul etsin, seni katında yüksek derecelere 
 4. **Haramdan Sakın:** "Müstehab" bir kapıdan (dini öğrenme niyetiyle) girerken, "haram"a (mahremiyet ihlali veya edep kaybına) düşme.
 5. **Tevazuyu Kuşan:** Öğrendiğin bilgilerle çevrendekilere, özellikle de eşine karşı asla kibirlenme.
 
-**Çünkü biz, sadece daha güzel ahlâklı bir insan olabilmek için öğreniyoruz.** 🌸
+Çünkü biz, sadece daha güzel ahlâklı bir insan olabilmek için öğreniyoruz. 🌸
 
 
 
