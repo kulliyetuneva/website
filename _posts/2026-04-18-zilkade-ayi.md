@@ -26,7 +26,8 @@ Katâde (rh) da demiştir ki: "Haram aylarda işlenen bir zulüm hata ve günah 
 
 🔹️Müslümanların da haram ayların kadrini yücelterek hem bu aylarda, hem de diğer aylarda Allah'ın hudutlarına riayet etmeleri, farzları yerine getirmeleri, vacipleri eda etmeleri, Allah'ı razı edecek şekilde itaat ve ibadette azimli olmaları, Allah'ın yasaklarını ihlal etmekten, gazabını çekecek ameller işlemekten ve sınırlarını aşmaktan sakınmaları gerekir.
 
-🔸️Zilkade, Hac aylarındandır: **"Hac, bilinen aylardadır."** (Bakara, 197)\
+🔸️Zilkade, Hac aylarındandır: **"Hac, bilinen aylardadır."** (Bakara, 197)
+
 İbn Ömer (ra) demiştir ki: "Hac ayları Şevval, Zilkade ve Zilhicce'nin ilk on günüdür." 
 
 🔹️Nebi (as)'ın sünnetine tabi olmak maksadıyla Zilkade ayında umre yapmak müstehaptır. Peygamberimizin bütün umreleri Zilkade ayında olmuştur. Hicretinden sonra başka bir ayda umre yapmamıştır.
@@ -57,8 +58,10 @@ Allah-u Teala'dan bizi hem bu aydan, hem de diğer aylardan en güzel şekilde i
 
 Alemlerin Rabbine Hamdolsun.
 
-**Şeyh Muhammed Salih Müneccid,**\
-**"Zilkade Ayının 15 Faydası" Risalesinden.**\
+**Şeyh Muhammed Salih Müneccid,**
+
+**"Zilkade Ayının 15 Faydası" Risalesinden.**
+
 **Ç﻿eviri: Kulliyetu Neva**
 
 [\#nevaceviri](https://www.instagram.com/explore/tags/nevaceviri/)
