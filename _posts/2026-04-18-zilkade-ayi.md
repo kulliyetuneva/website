@@ -41,19 +41,19 @@ Haram aylarda oruç tutmaya dair Nebi aleyhisselam şöyle buyurmuştur: *“Har
 
 🔸️**Zilkade ayında bazı önemli hadiseler vukua gelmiştir ki bunlardan bazıları şunlardır:**
 
-1.Allah (cc), Musa (as) ile bu ayda sözleşmiştir. **"Tûr dağında ibâdet etmesi için Mûsâ ile otuz gece için sözleşmiş, sonra ona on gece daha ilâve etmiştik. Böylece Rabbinin belirlediği süre kırk geceye tamamlanmış oldu."** (Araf, 142)
+1. Allah (cc), Musa (as) ile bu ayda sözleşmiştir. **"Tûr dağında ibâdet etmesi için Mûsâ ile otuz gece için sözleşmiş, sonra ona on gece daha ilâve etmiştik. Böylece Rabbinin belirlediği süre kırk geceye tamamlanmış oldu."** (Araf, 142)
 
 Müfessirlerin çoğunluğuna göre ayette bahsedilen 30 geceden kasıt Zilkade, ilave edilen 10 gece de Zilhicce'nin onudur.
 
-2.Küçük Bedir Gazvesi hicretin 4.yılında bu ayda olmuştur.
+2. Küçük Bedir Gazvesi hicretin 4.yılında bu ayda olmuştur.
 
-3.Peygamberimiz halasının kızı Zeynep binti Cahş ile yine hicretin 4.yılında bu ayda evlenmiştir. Hicap ayeti de bu sırada nazil olmuştur.
+3. Peygamberimiz halasının kızı Zeynep binti Cahş ile yine hicretin 4.yılında bu ayda evlenmiştir. Hicap ayeti de bu sırada nazil olmuştur.
 
-4.Hendek Gazvesi hicretin 5.yılında bu ayda olmuştur. (Şevval ayında diyenler de vardır.)
+4. Hendek Gazvesi hicretin 5.yılında bu ayda olmuştur. (Şevval ayında diyenler de vardır.)
 
-5.Beni Kureyza Gazvesi de hicretin 5.yılında bu ayda olmuştur. (Şevval ayında diyenler de vardır.)
+5. Beni Kureyza Gazvesi de hicretin 5.yılında bu ayda olmuştur. (Şevval ayında diyenler de vardır.)
 
-6.Hudeybiye antlaşması da hicretin 6.yılında Zilkade ayında gerçekleşmiştir. Allah (cc) bu antlaşmayı "apaçık bir fetih" olarak isimlendirmiştir.
+6. Hudeybiye antlaşması da hicretin 6.yılında Zilkade ayında gerçekleşmiştir. Allah (cc) bu antlaşmayı "apaçık bir fetih" olarak isimlendirmiştir.
 
 Allah-u Teala'dan bizi hem bu aydan, hem de diğer aylardan en güzel şekilde istifade etmeye muvaffak kılmasını dileriz.
 
