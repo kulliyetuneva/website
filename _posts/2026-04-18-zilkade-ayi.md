@@ -41,9 +41,7 @@ Haram aylarda oruç tutmaya dair Nebi aleyhisselam şöyle buyurmuştur: *“Har
 
 🔸️**Zilkade ayında bazı önemli hadiseler vukua gelmiştir ki bunlardan bazıları şunlardır:**
 
-1. Allah (cc), Musa (as) ile bu ayda sözleşmiştir. **"Tûr dağında ibâdet etmesi için Mûsâ ile otuz gece için sözleşmiş, sonra ona on gece daha ilâve etmiştik. Böylece Rabbinin belirlediği süre kırk geceye tamamlanmış oldu."** (Araf, 142)
-
-Müfessirlerin çoğunluğuna göre ayette bahsedilen 30 geceden kasıt Zilkade, ilave edilen 10 gece de Zilhicce'nin onudur.
+1. Allah (cc), Musa (as) ile bu ayda sözleşmiştir. **"Tûr dağında ibâdet etmesi için Mûsâ ile otuz gece için sözleşmiş, sonra ona on gece daha ilâve etmiştik. Böylece Rabbinin belirlediği süre kırk geceye tamamlanmış oldu."** (Araf, 142) Müfessirlerin çoğunluğuna göre ayette bahsedilen 30 geceden kasıt Zilkade, ilave edilen 10 gece de Zilhicce'nin onudur.
 
 2. Küçük Bedir Gazvesi hicretin 4.yılında bu ayda olmuştur.
 
