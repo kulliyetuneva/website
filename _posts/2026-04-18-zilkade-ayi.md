@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zilkade Ayı
+title: Zilkade Ayına Dair
 date: 2026-04-18T19:40:24.125Z
 author: kulliyetuneva
 categories:
