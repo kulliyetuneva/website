@@ -60,12 +60,10 @@ Alemlerin Rabbine Hamdolsun.
 
 **Şeyh Muhammed Salih Müneccid,**
 
-**"Zilkade Ayının 15 Faydası" Risalesinden.**
+"Zilkade Ayının 15 Faydası" Risalesinden.
 
 **Ç﻿eviri: Kulliyetu Neva**
 
-[\#nevaceviri](https://www.instagram.com/explore/tags/nevaceviri/)
-
-[![kulliyetuneva'in profil resmi](https://scontent.cdninstagram.com/v/t51.75761-19/504087527_18142396573396863_6058285664284493119_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=bnf22A-EQRAQ7kNvwHtvf46&_nc_oc=AdqmXUBd8x6KCH2t_Rr8Mc9WPYrG3uP4cmhzIf08Km2T4beC7IhnwYjzgonnSH5VwYY&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=pyZsoDv1GV9dZbLF0fq0AA&_nc_ss=7a2a8&oh=00_Af06SNywIQOQW8agBt3_sq-dh731WF6Dn1iHOp0a1XEDJQ&oe=69E9A69C)](https://www.instagram.com/kulliyetuneva/)
+[\#nevacevir](https://www.instagram.com/explore/tags/nevaceviri/)
 
 [](https://www.instagram.com/kulliyetuneva/)
