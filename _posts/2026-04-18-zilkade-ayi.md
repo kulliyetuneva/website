@@ -57,7 +57,7 @@ Müfessirlerin çoğunluğuna göre ayette bahsedilen 30 geceden kasıt Zilkade,
 \
 Allah-u Teala'dan bizi hem bu aydan, hem de diğer aylardan en güzel şekilde istifade etmeye muvaffak kılmasını dileriz.
 
-Alemlerin Rabbine Hamdolsun. \
+Alemlerin Rabbine Hamdolsun.\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\
 **Şeyh Muhammed Salih Müneccid,**\
 **"Zilkade Ayının 15 Faydası" Risalesinden.**\
