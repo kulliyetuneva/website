@@ -64,6 +64,4 @@ Alemlerin Rabbine Hamdolsun.
 
 **Ç﻿eviri: Kulliyetu Neva**
 
-[\#nevacevir](https://www.instagram.com/explore/tags/nevaceviri/)
-
-[](https://www.instagram.com/kulliyetuneva/)
+[\#nevacevir](https://www.instagram.com/explore/tags/nevaceviri/)[](https://www.instagram.com/kulliyetuneva/)
