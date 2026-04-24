@@ -12,7 +12,9 @@ image: /assets/images/whatsapp-image-2026-04-19-at-16.54.30.jpeg
 ---
 **YENİ ÇEVİRİ KİTAP**
 
-*Kulliyetu Neva hocalarından Feyza Altındiş'in de çevirisine katkı sağladığı **"Hakikati Gölgeleyen Söylemler"** kitabı, İnsan Yayınları'ndan çıktı. Kendisinin kitapla ilgili değerlendirmesi:* 
+*Kulliyetu Neva hocalarından Feyza Altındiş'in de çevirisine katkı sağladığı **"Hakikati Gölgeleyen Söylemler"** kitabı, İnsan Yayınları'ndan çıktı.* 
+
+*Hocamızın kitapla ilgili değerlendirmesi:* 
 
 \*﻿\**
 
