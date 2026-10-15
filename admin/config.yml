@@ -1,0 +1,89 @@
+backend:
+  name: github
+  repo: kulliyetuneva/website
+  branch: main
+  base_url: https://lau5qluook.execute-api.eu-west-1.amazonaws.com
+  auth_endpoint: /prod/auth
+local_backend: true
+media_folder: "assets/images"
+locale: "tr"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+collections:
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
+    label: "Yazı" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Şablon", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Başlık", name: "title", widget: "string"}
+      - {label: "Yayın Tarihi", name: "date", widget: "datetime"}
+      - {label: "Yazar", name: "author", widget: "string", default: "kulliyetuneva"}
+      - {
+          label: "Kategoriler", name: "categories", widget: "relation",
+          collection: "category", value_field: "title", search_fields: ["title"], display_fields: ["title"],
+          multiple: true
+        }
+      - {label: "Öne Çıkanlarda Göster", name: "featured", widget: "boolean", default: false, required: false}
+      - {label: "Sabitle", name: "sticky", widget: "boolean", default: false, required: false}
+      - {label: "Yorumlar Aktif", name: "comments", widget: "boolean", default: true, required: false}
+      - {label: "Resim", name: "image", widget: "image"}
+      - {label: "İçerik", name: "body", widget: "markdown", required:false}
+  - name: "page"
+    label: "Sayfa"
+    folder: "_pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Şablon", name: "layout", widget: "string", default: "default"}
+      - {label: "Başlık", name: "title", widget: "string"}
+      - {label: "Link", name: "permalink", widget: "string", pattern: ['^\/[a-z0-9]+(?:-[a-z0-9]+)*$', "/ ile başlayıp boşluk içermeyen ifade olmalı. Örnek: /sayfa-deneme"]}
+      - {label: "Yorumlar Aktif", name: "comments", widget: "boolean", required: false}
+      - {label: "İçerik", name: "body", widget: "markdown"}
+  - name: "category"
+    label: "Kategori"
+    folder: "_category"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Başlık", name: "title", widget: "string"}
+
+  - name: "config"
+    label: "Ayarlar"
+    editor:
+      preview: false
+    files:
+      - label: "Menu"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Menu Öğeleri"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: İsim, name: name, widget: string}
+              - {label: Link, name: link, widget: string, required: false}
+              - {
+                  label: Alt Menu,
+                  name: subitems,
+                  widget: list,
+                  fields: [
+                    {label: İsim, name: name, widget: string},
+                    {label: Link, name: link, widget: string}
+                  ]
+                }
+      - label: "Anasayfa Kategorileri"
+        name: "front_categories"
+        file: "_data/front_categories.yml"
+        fields:
+          - label: "Gösterilecek Kategori"
+            name: "items"
+            widget: "list"
+            fields:
+              - {
+                  label: "Kategori", name: "category", widget: "relation",
+                  collection: "category", value_field: "title", search_fields: ["title"], display_fields: ["title"],
+                }
