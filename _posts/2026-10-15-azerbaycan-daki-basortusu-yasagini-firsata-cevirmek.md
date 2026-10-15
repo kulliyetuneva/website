@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Azerbaycan’daki Başörtüsü Yasağını Fırsata Çevirmek
+title: Azerbaycan’daki Başörtüsü Yasağını Fırsata Çevirmek / Prof. Dr. İyad Kunaybi
 date: 2026-10-15T08:42:19.954Z
 author: kulliyetuneva
 categories:
